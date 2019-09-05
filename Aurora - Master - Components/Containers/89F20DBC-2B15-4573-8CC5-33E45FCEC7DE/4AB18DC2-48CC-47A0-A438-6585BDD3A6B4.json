@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4AB18DC2-48CC-47A0-A438-6585BDD3A6B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "228E8AA3-7362-425A-A39E-6A159B6A2BEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CC2F152-DB02-476F-9D93-6A77CDB519E4",
+    "height": 56,
+    "width": 300,
+    "x": 736,
+    "y": 689
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "States/Banners/Caution Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62B271A8-60F7-4262-B8B2-3E84C08AE48E",
+      "overrideName": "0D251F6E-952C-4CA8-B435-DE76587BDF48_layerStyle",
+      "value": "B8325F61-39D1-408E-A09A-608DBC32E61B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B92C7CA1-EDBF-48EC-932B-343CCAE10EC3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "46753A51-D95E-4F93-B30A-1BF6C46F69B4",
+  "verticalSpacing": 0
+}

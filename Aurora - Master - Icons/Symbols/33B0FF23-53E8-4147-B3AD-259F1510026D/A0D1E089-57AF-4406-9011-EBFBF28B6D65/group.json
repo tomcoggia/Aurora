@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A0D1E089-57AF-4406-9011-EBFBF28B6D65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9599026-5F6C-4AF8-9827-28108D41E07A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A61C7EDA-2FF1-438B-ABB4-B4C6B251186E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F15EBCD1-D395-4E11-9268-E3D1DE8C1107"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4F60AF76-44FF-4B68-BEED-A0915AC0EAF0"
+    },
+    {
+      "class": "rectangle",
+      "id": "A41464CA-312F-4CC9-A460-C12FFCB9764C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B866A92D-A557-4903-9CDC-8DF5EE2A0CC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7475A64E-21A0-4041-8472-323AAA0962BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BE72364-B538-47F5-A9C7-0633C8FB0A60"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7AFCFB2C-BE55-4761-BDD3-ECE735F018C5"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Brands/Amex-24-Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B73AAB2-EFE6-4E36-9961-E2334B25FE32",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

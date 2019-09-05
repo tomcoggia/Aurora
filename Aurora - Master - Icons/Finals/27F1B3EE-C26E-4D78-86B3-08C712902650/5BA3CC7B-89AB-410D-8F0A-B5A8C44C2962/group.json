@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BA3CC7B-89AB-410D-8F0A-B5A8C44C2962",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77BC6399-1C86-4147-8DAD-4E5033DAA035",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BCD9128A-F95F-4EE0-A1FC-6E0AE283526E",
+    "height": 56,
+    "width": 449,
+    "x": 24,
+    "y": 1020
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C622F5FD-C4FC-44F5-A5D5-5236EF42D91C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "026C6DCB-4D75-4305-B506-FA2E36850C81"
+    },
+    {
+      "class": "rectangle",
+      "id": "9A929ED2-6795-4FE3-8BC9-4E197E5BAECC"
+    },
+    {
+      "class": "rectangle",
+      "id": "3629D162-42E2-4542-AE98-848361305A0D"
+    },
+    {
+      "class": "rectangle",
+      "id": "26731C1D-EBCA-4494-BCB8-AE3914A4E844"
+    },
+    {
+      "class": "group",
+      "id": "48025C90-3CFB-4436-85BC-D8E12E53BF26"
+    },
+    {
+      "class": "rectangle",
+      "id": "C3C05057-947B-4CB2-9261-0D55F1BE7E6C"
+    },
+    {
+      "class": "group",
+      "id": "8F849D89-E054-4565-84D0-C31999AA6875"
+    },
+    {
+      "class": "text",
+      "id": "DE627547-ADE3-4CBA-8A5C-7BFA92EAC698"
+    },
+    {
+      "class": "group",
+      "id": "DE6C83E8-75CF-4260-9D43-556C7E99B9BA"
+    }
+  ],
+  "name": "Filter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8C98C6E-0185-4B86-974C-C38374054C3A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

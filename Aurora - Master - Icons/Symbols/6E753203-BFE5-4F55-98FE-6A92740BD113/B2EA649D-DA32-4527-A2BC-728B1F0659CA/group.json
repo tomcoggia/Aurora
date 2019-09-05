@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2EA649D-DA32-4527-A2BC-728B1F0659CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A76012B6-BC93-4CB8-8083-243847EE484C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "718B146C-8C87-4249-B77D-6289CA6759F4",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B4C39406-C10B-4098-BC7E-26F4C9BDF399"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1AFD4CDC-BA33-42DF-BB8D-867B80D8E004"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BAB4C657-69DE-4CC3-BB21-B1CB09232BAD"
+    }
+  ],
+  "name": "Objects/Pie-Chart-16",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "37812FD0-2D99-44A2-B106-EFF19744CC8E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2444A035-6809-4537-A153-FAC6DCB129DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2DBF1DFD-972C-490B-9698-FA6652305F2C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C105DF88-19D3-4D3A-BAAD-7C340D7DBCDE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "419B82C1-C405-4229-BF54-29F27C103490"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B1712675-039E-467E-AB50-D1DA0CB02955"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3878D6CD-F5AA-4324-9FF0-1C2470B2C3AD"
+    }
+  ],
+  "name": "Parking-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A374E51-E575-4667-9BC0-F5D5A1D099DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

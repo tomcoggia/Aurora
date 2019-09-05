@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E2D89BF-6CC7-46A9-836E-8D240161D622",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F5DAB09D-F92B-42BB-9AFE-15FB5AA9FDEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "000DE7B6-1309-4482-B59C-14DFC1FBE4D0",
+    "height": 24,
+    "width": 417,
+    "x": 17,
+    "y": 60
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "02DADC23-0B68-49ED-978E-52DAABF2E163"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F0AFB842-7BD6-4197-BC86-16D06F82D063"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D1E42E16-4D82-4751-8F5A-73BA5E410C7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "1DAA0613-7598-497E-AD8F-A712FCA3B28F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0ED0F427-963E-4397-8706-7F31F5589C56"
+    },
+    {
+      "class": "rectangle",
+      "id": "A46021FD-A3BD-47C7-8772-40CBEB6250C8"
+    },
+    {
+      "class": "group",
+      "id": "217B3020-8EAC-47C6-89F2-9BB5932663F4"
+    },
+    {
+      "class": "rectangle",
+      "id": "2F33DD85-A992-4CC2-9B3B-FB32AA7A129C"
+    },
+    {
+      "class": "group",
+      "id": "2966B20E-C335-4B19-BCC1-2BCFD9F9C005"
+    },
+    {
+      "class": "rectangle",
+      "id": "0CFD6AE9-42D1-4EDE-8844-A380A9ED8015"
+    },
+    {
+      "class": "group",
+      "id": "86C18C40-71AB-40AB-BE62-FAE33ECF1A7C"
+    },
+    {
+      "class": "rectangle",
+      "id": "6196D757-4735-4641-9734-1ED960A6170B"
+    },
+    {
+      "class": "group",
+      "id": "CB2CDF49-0D07-499C-B6BB-2A3662216EB0"
+    },
+    {
+      "class": "text",
+      "id": "9623E5D1-D5CC-4D98-ABB6-DAC108A49749"
+    }
+  ],
+  "name": "Facebook Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54313915-F199-4B81-9C3C-5A2E93E48B97",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

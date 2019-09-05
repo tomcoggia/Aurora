@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F854E30F-87E2-4EFD-BE91-1B023ECDEEBB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C1A514F-8F61-4079-AF87-9A59C66FD943",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F016CD6-E635-4348-B746-FB8DA0157F22",
+    "height": 56,
+    "width": 449,
+    "x": 24,
+    "y": 180
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1C12D215-46A7-4EEB-A478-FC871AD30F67"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "86646F1F-033C-492B-A084-A5242EC1448E"
+    },
+    {
+      "class": "text",
+      "id": "E9E16CB4-686D-4575-B35A-E92254B8813A"
+    },
+    {
+      "class": "rectangle",
+      "id": "B79B4ACF-C5E0-457A-B880-64F6DB7E50A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA10DC83-C4B7-48FE-BD6E-FBB73E826AC8"
+    },
+    {
+      "class": "rectangle",
+      "id": "3BC7FA18-0BE9-4FBB-B646-E24AFC55E9CE"
+    },
+    {
+      "class": "group",
+      "id": "09E2CAFB-E6B9-4E33-B461-0E98DDB0A563"
+    },
+    {
+      "class": "rectangle",
+      "id": "8815AA28-3922-4912-AE57-9477EF4254CD"
+    },
+    {
+      "class": "rectangle",
+      "id": "2FEB780C-5AD2-429F-9101-83DA4D32926A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF2DB9E9-FF4B-4CA2-8461-D16B0E84890B"
+    },
+    {
+      "class": "group",
+      "id": "D8005F06-72E4-4F45-B1DE-ED70AAA45467"
+    },
+    {
+      "class": "group",
+      "id": "2A2DA49D-98F7-4575-B3F9-E6E6182F2864"
+    }
+  ],
+  "name": "Calendar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3AD87E3-6AEA-4EB8-AC5B-DFB82BAE4B25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

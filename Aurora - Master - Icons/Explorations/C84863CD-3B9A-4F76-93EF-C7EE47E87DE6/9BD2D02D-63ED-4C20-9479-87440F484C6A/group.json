@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BD2D02D-63ED-4C20-9479-87440F484C6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A3301D9-E787-4551-86F7-DFF319DA100E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E5E6CEA7-D662-430E-9401-8F83C24FCA5F",
+    "height": 24,
+    "width": 24,
+    "x": 296,
+    "y": 296
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "947241D8-C93E-43FD-AD2D-C742E167A90C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E127E524-26FF-438F-BCCF-4C91DB8081B9"
+    },
+    {
+      "class": "oval",
+      "id": "B3D1C2BF-B018-4E9F-8606-6BF2B79F2B7E"
+    },
+    {
+      "class": "oval",
+      "id": "2561D2E1-A2B9-44FD-8728-D48D432A45EB"
+    },
+    {
+      "class": "oval",
+      "id": "920A51EA-8A1F-4197-9292-BFF773D05FC5"
+    },
+    {
+      "class": "group",
+      "id": "B8BF2341-BEF1-4FE0-B6CE-414738D65C58"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3EEF186-7274-4A79-A0C0-669886391629"
+    },
+    {
+      "class": "shapePath",
+      "id": "D3455EEA-EFC2-4DFA-B61D-BBBBD63D78B4"
+    },
+    {
+      "class": "shapePath",
+      "id": "FFCABC3D-97BE-4B40-981D-55F7CFE6DA41"
+    },
+    {
+      "class": "shapePath",
+      "id": "44474585-F469-4DC0-80A1-D24EC824F935"
+    }
+  ],
+  "name": "Group 823",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8A297E8-433F-48B9-88AD-2C17DD5349FF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

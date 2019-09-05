@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "61E844B6-25D8-4687-AF6D-17B2D045A091",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "75222022-274C-44CE-811C-0F800DB3B7F8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3F9B2D5E-6C6C-4A78-B596-E74E7277C2F8",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "00576781-4443-4847-8655-2231AFDBA9D7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "970660F2-C524-40D9-A484-A3964F8D589A"
+    },
+    {
+      "class": "group",
+      "id": "BE4247FB-D841-4657-9E67-ACD0BB889CBD"
+    }
+  ],
+  "name": "Icon-Single-Ticket",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95B043FD-FCAA-4DDB-A253-63C267104EC2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

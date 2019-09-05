@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C25BF8B5-3161-452D-8C8C-0ABB9438DAC6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D5366A9D-6B6C-473A-9909-57CE73E17A51",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "076D10EC-0CF9-471E-AD43-475686D92604",
+    "height": 24,
+    "width": 417,
+    "x": 16,
+    "y": 136
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "54A9DA37-31EF-4C3E-A71B-19CEC48F68E6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "01391616-4BEE-42BB-89A4-CE8C00D8798A"
+    },
+    {
+      "class": "rectangle",
+      "id": "88EF438D-7046-40D1-9646-1EE923BA2107"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "165FBC91-036B-4959-871F-EAF7DF9930C9"
+    },
+    {
+      "class": "rectangle",
+      "id": "236E3A9A-766C-434E-B108-FC777EE1470B"
+    },
+    {
+      "class": "rectangle",
+      "id": "8837449F-3271-40FD-99CC-3E7D25D0A049"
+    },
+    {
+      "class": "rectangle",
+      "id": "F7D0B28C-806D-4500-A44C-EC5FF82A19F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "60151EB1-8028-40F0-9069-066DC5726CC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "FAA60E68-B9E3-44D5-AD65-D8EDB7B88965"
+    },
+    {
+      "class": "rectangle",
+      "id": "BEFEE6E2-C3E5-4A26-B23A-9540ECDE4B09"
+    },
+    {
+      "class": "rectangle",
+      "id": "34A31214-00DC-45B3-AD63-91AF86AD2E77"
+    },
+    {
+      "class": "rectangle",
+      "id": "0F266E3D-1E4E-417B-87B2-9D66CDAC1217"
+    },
+    {
+      "class": "rectangle",
+      "id": "E571DA92-2E85-4388-B04B-184137717609"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6B2CD58-A656-4E50-A04B-F16259CF0AD2"
+    }
+  ],
+  "name": "Volume 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7622FA6D-FCA8-4C76-90C2-9D7300AF0AAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

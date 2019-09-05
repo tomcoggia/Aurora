@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "19B853DC-6F3F-402D-B371-FA6A5ABC47C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FAD2C55D-BD5D-45D0-A2BD-243A82B6B29D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FA79B02-FDA5-4ACB-98F2-031E774435C6",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EAE7C082-1CB9-43CA-AE8B-ADD40B94C41F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "86FEFF23-F080-4F66-9060-1BCB23546784"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "084CA8FE-98CE-48D3-9C6C-B50E83256896"
+    }
+  ],
+  "name": "Icons/Action/Standard-Mail-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8699DAF9-C475-41A4-BD2D-5CB4DB9B5A5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

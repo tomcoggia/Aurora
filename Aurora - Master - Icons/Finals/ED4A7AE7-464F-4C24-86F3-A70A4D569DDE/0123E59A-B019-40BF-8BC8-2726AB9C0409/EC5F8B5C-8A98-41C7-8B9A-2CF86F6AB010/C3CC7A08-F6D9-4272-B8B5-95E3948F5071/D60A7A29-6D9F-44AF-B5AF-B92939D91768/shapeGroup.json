@@ -1,0 +1,122 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D60A7A29-6D9F-44AF-B5AF-B92939D91768",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDAB726C-555A-46AB-90DF-B42FFF38DB0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "148AC7DA-2F6D-4521-A3FF-65BC3E404FD1",
+    "height": 1.861241554054053,
+    "width": 14.94619164619164,
+    "x": 3.826334152334153,
+    "y": 8.87917145270271
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2EBCD79E-9753-47D0-AABF-286BD0E22A3D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DDD47BDC-033B-4E7C-8F94-76D74CFEAEBE"
+    },
+    {
+      "class": "shapePath",
+      "id": "79740470-58F1-47C9-ADB8-11EAA099BE4F"
+    },
+    {
+      "class": "shapePath",
+      "id": "364F1379-F50F-44DD-8A06-A284D0F6E897"
+    },
+    {
+      "class": "shapePath",
+      "id": "B0E5BF6C-9674-4C94-B3E2-0C8B1D4C4D0A"
+    },
+    {
+      "class": "shapePath",
+      "id": "F40FA146-93D8-4511-A759-AB59918252F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "4EF79859-901E-4AFF-9663-190329A21010"
+    },
+    {
+      "class": "shapePath",
+      "id": "F40E3531-76D0-49D5-9F06-E9CBBB768863"
+    },
+    {
+      "class": "shapePath",
+      "id": "5C031426-1E72-4EAC-B454-C45349B6595C"
+    },
+    {
+      "class": "shapePath",
+      "id": "527F24F1-5636-425C-828D-A96F6D9EFA93"
+    },
+    {
+      "class": "shapePath",
+      "id": "A55B1B1F-D932-4C96-86A2-06666BE8ED8C"
+    },
+    {
+      "class": "shapePath",
+      "id": "883284B3-0076-49BC-BA89-BCA16BB55F9D"
+    }
+  ],
+  "name": "American Top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "866BE80E-A17D-41A1-B0C4-4E9BC9D3F597",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.812,
+          "green": 0.435,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 1
+}

@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA4F3C29-3FFA-4201-BB26-083FA9064FD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "774BE6C9-8921-4633-92F6-321CE06B36D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CD256437-B5BD-4471-972D-9E3C1695722E",
+    "height": 24,
+    "width": 24,
+    "x": 148,
+    "y": 104
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EDE6D806-E8B6-4EFB-9304-ACA2DE60B85B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AEDCC3C4-EC03-469F-9398-D418DBC4153F"
+    },
+    {
+      "class": "oval",
+      "id": "079081D0-232D-4542-9282-C94B409884C7"
+    },
+    {
+      "class": "oval",
+      "id": "4DB1BC92-4AF7-4B86-AD0E-10B79AA61925"
+    },
+    {
+      "class": "group",
+      "id": "F01EC443-F58F-47A6-B46A-D842C64AC872"
+    },
+    {
+      "class": "oval",
+      "id": "61F0A16A-F8D7-4711-A95D-A61DA6EC0C56"
+    },
+    {
+      "class": "oval",
+      "id": "FA157C67-7186-4CC4-9EAF-FC253C145763"
+    },
+    {
+      "class": "oval",
+      "id": "77F6AD80-DFA0-4A43-9E2E-6D5DDB015101"
+    },
+    {
+      "class": "oval",
+      "id": "E441E616-ACA1-4890-BD54-9BC9AE5405AA"
+    },
+    {
+      "class": "oval",
+      "id": "3BD664FD-4258-4F91-A222-D5946D02CFF9"
+    },
+    {
+      "class": "oval",
+      "id": "F4B890C5-8D30-4C93-BB56-E28B15903B1A"
+    },
+    {
+      "class": "oval",
+      "id": "1C6AE7EA-D645-4A4B-9160-29B1BE5B04F8"
+    },
+    {
+      "class": "oval",
+      "id": "94CF1306-6E54-4089-AED9-9B4E23273936"
+    },
+    {
+      "class": "oval",
+      "id": "0D0F4912-64A3-4B5E-BF40-129BDD668BFE"
+    },
+    {
+      "class": "oval",
+      "id": "C17351EC-FACD-43EC-867B-651D495D09BA"
+    }
+  ],
+  "name": "SalesDeck",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F29A47E0-7405-4D8A-9196-AE43E1C59FEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

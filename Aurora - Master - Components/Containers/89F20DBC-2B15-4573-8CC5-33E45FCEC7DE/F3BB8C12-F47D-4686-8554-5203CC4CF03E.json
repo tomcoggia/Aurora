@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3BB8C12-F47D-4686-8554-5203CC4CF03E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6BF174A0-ECAE-48F9-AF1D-0DCB63A2CFEE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "977B418D-B705-4522-B0E2-86ABD45F9EE8",
+    "height": 200,
+    "width": 300,
+    "x": 736,
+    "y": 350
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "States/Feedback/Toasts",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E0DC613F-6CC6-4274-80CC-E06E6FC9BC22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8577FDC1-DB75-4862-AC2B-B619ABFD01BA",
+  "verticalSpacing": 0
+}

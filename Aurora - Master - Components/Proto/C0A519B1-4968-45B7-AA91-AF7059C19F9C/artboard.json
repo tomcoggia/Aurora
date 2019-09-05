@@ -1,0 +1,88 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "46D6A47F-1E1A-4272-85AC-52B08ACE90E2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0A519B1-4968-45B7-AA91-AF7059C19F9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "478B35C3-E4F2-4D99-9F0D-910E68B285BC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F2BC1FC-CF17-4AF3-9539-AA353F7698C0",
+    "height": 370,
+    "width": 341,
+    "x": 1461,
+    "y": 143
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B5D4EDF3-266F-48E3-AAA2-A85C584BD108"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "40D38863-E6A4-4152-B183-A1F779CE2251",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE06E6A6-3A1D-4818-9CDB-7695FFBCB3F2"
+    },
+    {
+      "class": "group",
+      "id": "96886D61-D713-4615-9BFC-3E96B08F9F5B"
+    }
+  ],
+  "name": "Dropdown 04.25",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "61D7749D-6074-4F63-9742-3B982B6DDFBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "36D36337-7D4F-4722-A103-5DC8599C2C72",
+    "guides": [
+    ]
+  }
+}

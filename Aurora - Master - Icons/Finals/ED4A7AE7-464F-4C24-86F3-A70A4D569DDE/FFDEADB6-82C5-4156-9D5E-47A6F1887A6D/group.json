@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FFDEADB6-82C5-4156-9D5E-47A6F1887A6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF57F72F-2256-44DE-B103-3B978352654D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D5631949-4F59-4DBB-B7DD-6BF5DDDBF29E",
+    "height": 56,
+    "width": 449,
+    "x": 24,
+    "y": 1070
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F88C1937-D896-4AFC-A77C-F47E3E29E604"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "38579252-A0B2-4D07-82C4-C5A0D785D0BC"
+    },
+    {
+      "class": "text",
+      "id": "16C99DAC-6B25-4104-B3C8-DA3F342C9DCF"
+    },
+    {
+      "class": "group",
+      "id": "284C8783-6A8D-4446-8490-0D7A1CF1F99C"
+    },
+    {
+      "class": "group",
+      "id": "44F0E17A-34DD-44E0-97F1-2345E528FDCD"
+    },
+    {
+      "class": "group",
+      "id": "F4552892-7898-4FB6-81CA-F3D75D003696"
+    }
+  ],
+  "name": "Food & Beverage",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EE48C55-9876-4F18-A442-3325AEF31A80",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

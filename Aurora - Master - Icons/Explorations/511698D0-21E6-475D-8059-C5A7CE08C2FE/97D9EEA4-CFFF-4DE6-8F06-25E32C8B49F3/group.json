@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "97D9EEA4-CFFF-4DE6-8F06-25E32C8B49F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2AAD99DE-5DF6-479A-97A1-55A6956DBE23",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CB7E715-6676-45C9-8A1C-75291A56C72C",
+    "height": 24,
+    "width": 24,
+    "x": 105,
+    "y": 872
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "95B36CA2-CD38-41F5-9818-27D56E0D685C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6E348E94-9C45-4EA4-A21C-F1B0A662D0A1"
+    },
+    {
+      "class": "group",
+      "id": "61ACC723-B1C1-451E-9723-05EA4366CCC4"
+    },
+    {
+      "class": "shapePath",
+      "id": "0016CA16-F445-4DD9-B238-FB7E51D349F5"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB5EDFBA-AE10-4162-AF65-B33BBDC384AE"
+    },
+    {
+      "class": "shapePath",
+      "id": "02A3A987-DE83-457B-906E-0338371FE39B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4E7C3EB-1A4E-4C7A-B9F5-DA2EB1471743"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF191C73-331B-48B6-8126-FBEC0F9FE134"
+    },
+    {
+      "class": "shapePath",
+      "id": "B86A6BB1-2D55-43A1-B9E4-FEB5DC9E9B1A"
+    },
+    {
+      "class": "shapePath",
+      "id": "66312826-628C-491A-B8DC-CB63F158123E"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "427142E5-EDEA-4DF7-A03D-B54C415E2133",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

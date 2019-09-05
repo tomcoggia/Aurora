@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38CF81A9-8A2D-49E8-8E59-CCBB91239502",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 128,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D40362B7-5E9B-4AB3-9C0F-33AA27AB5018"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6E1881E3-0C15-4E99-AE84-E4EFCB2EFFD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28C3CABD-2709-4260-A8D1-AD8FEF176234"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C2CBDB2-D0F9-4373-AEAF-A11F3D58F143"
+    }
+  ],
+  "name": "Patterns/Checkbox Group-Small",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

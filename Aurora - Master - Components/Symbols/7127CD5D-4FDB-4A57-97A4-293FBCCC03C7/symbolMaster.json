@@ -1,0 +1,150 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "22D787D7-7E34-419C-A4F0-DF8261E7355B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2308,
+  "clippingMaskMode": 0,
+  "do_objectID": "7127CD5D-4FDB-4A57-97A4-293FBCCC03C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6B2A8B7-5691-492F-9993-8063A32F2711",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7008BD26-333B-42B8-9318-D2047AF6BB9E",
+    "height": 70,
+    "width": 150,
+    "x": 6796,
+    "y": 433
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DE21233A-89B1-41D5-B857-FFEDB78E0DC4"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4BE13443-EE8D-4682-9B8F-20F541B40DFC",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2AE997D4-69F3-4F4B-81CA-58AF5A1B84A8"
+    },
+    {
+      "class": "group",
+      "id": "B6C6FDAC-6204-4EC8-BF78-6BFE43F8CFD1"
+    },
+    {
+      "class": "group",
+      "id": "B4A3B086-8C75-4175-A6CF-C2933BF7C7C6"
+    }
+  ],
+  "name": "Text Fields/Top Label/36-Error",
+  "nameIsFixed": true,
+  "originalObjectID": "A63BD919-D5F4-41F2-9F39-14437A54AF12",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CA6BC3AC-6888-4E95-BD35-BA8F32F5E418_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C3BFD2B6-DB7C-4350-8145-97D2CAF63F76_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "5EF83C21-E8CD-4591-BA49-455F8AA8E7F4_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "655718EA-7D0F-4AFF-9FB5-7D5D92DC1B59_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "655718EA-7D0F-4AFF-9FB5-7D5D92DC1B59_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "C3BFD2B6-DB7C-4350-8145-97D2CAF63F76_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5EF83C21-E8CD-4591-BA49-455F8AA8E7F4_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "0C6AAA92-AB38-41B8-86D0-B2503645B112_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "0C6AAA92-AB38-41B8-86D0-B2503645B112_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D3D73FA7-2008-426B-ABE7-C1EA54D9D75E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "91DF04CA-9931-434B-8125-D26A2F6C058B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D5596B56-FE3C-4A2B-A4A1-72D54C41CE87",
+    "guides": [
+    ]
+  }
+}

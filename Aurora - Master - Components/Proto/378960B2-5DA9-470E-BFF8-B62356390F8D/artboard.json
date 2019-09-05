@@ -1,0 +1,84 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "02BFA1D4-00F0-49BC-94C6-FDE0A9C6938E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "378960B2-5DA9-470E-BFF8-B62356390F8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C16B7F8-C943-4B3E-9A72-71AE9D5B7D9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07650FD2-6958-4F2A-8CF6-8A04C5773A4D",
+    "height": 370,
+    "width": 341,
+    "x": 2303,
+    "y": -240
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "562B467D-4C4C-4C85-8B59-F6DA85EE31FC"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "381DDFE4-FCFA-44DB-B117-2BEA2B6AC5BF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "ED2D8431-8D37-479E-BBCF-5F3244958709"
+    }
+  ],
+  "name": "Dropdown 06",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A01F949-2C98-4B9F-9CA8-2FB72B81C83D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9AFA6D2-69C5-4735-9593-B48912F361F3",
+    "guides": [
+    ]
+  }
+}

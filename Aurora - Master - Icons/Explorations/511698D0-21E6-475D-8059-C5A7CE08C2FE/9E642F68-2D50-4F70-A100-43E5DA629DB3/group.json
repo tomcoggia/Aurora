@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E642F68-2D50-4F70-A100-43E5DA629DB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8231C096-22FF-457A-B09F-58DA802F98CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58D82E92-81FB-492F-8B81-E24932B5AAEC",
+    "height": 24,
+    "width": 24,
+    "x": 41,
+    "y": 744
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7B350382-006F-4743-819F-05051AD85901"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "21A1F307-9B21-40B2-B21A-40AF58698881"
+    },
+    {
+      "class": "oval",
+      "id": "E74362C9-F57F-402A-B7F4-FAFCF07AAFC1"
+    },
+    {
+      "class": "shapePath",
+      "id": "D0C0B558-ABC3-4491-99E9-36B37A9B71E5"
+    },
+    {
+      "class": "shapePath",
+      "id": "797ACCD1-BD30-4831-8D79-03616E0035A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "D4804C05-9A23-4D9D-8994-A971793342A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "F79456F7-A0D8-481E-A0C2-50E2B9BBE8CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "174D28ED-2D6A-4662-9681-A2E168E9D285"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B8850C7-7F4B-4ADF-BF39-1037C84DAACA"
+    },
+    {
+      "class": "shapePath",
+      "id": "74C492F1-B40F-4C66-9902-C17534333050"
+    },
+    {
+      "class": "shapePath",
+      "id": "83E283FB-5681-447E-8D55-292FD8B73AFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDF73670-4DBF-43E2-8B86-14CA52C69ADA"
+    },
+    {
+      "class": "shapePath",
+      "id": "C01B9905-66D8-4887-BA5E-33E8FB754AFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "9C7AD55E-3699-4E9C-A96B-5EB9D28B4639"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A10775D9-EC2C-4B96-A653-4A8321E2760D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

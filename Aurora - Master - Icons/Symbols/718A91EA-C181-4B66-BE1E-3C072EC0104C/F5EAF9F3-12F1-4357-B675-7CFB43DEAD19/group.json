@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5EAF9F3-12F1-4357-B675-7CFB43DEAD19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6397602B-486D-4616-8BAB-CFC2BAB1E643",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23774FD6-0726-49BB-A7A8-52B34A45A586",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6AC0FC43-C006-45F8-BCB7-FF2B3D6E5C28"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2144D094-2BD7-4624-B28D-2C8FC77EED6A"
+    },
+    {
+      "class": "rectangle",
+      "id": "AD692CD8-C73C-4FEA-A881-CE414F75625E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "28F55C9C-C750-494A-A7DD-B4469A1F5F41"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Brands/Discover-24-Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AC227066-006B-45A6-BB3F-FCE6F81AF862",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

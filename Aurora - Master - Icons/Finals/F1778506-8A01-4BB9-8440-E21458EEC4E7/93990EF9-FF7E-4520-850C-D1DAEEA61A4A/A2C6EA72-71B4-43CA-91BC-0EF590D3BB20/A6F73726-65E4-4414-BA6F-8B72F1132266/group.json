@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A6F73726-65E4-4414-BA6F-8B72F1132266",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66FDB9E4-988D-426A-AD3F-4778387EA63E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F2A575D-5959-4D03-AAEB-28A7FC2652AE",
+    "height": 16,
+    "width": 16,
+    "x": 313,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "46630BBD-D46E-4517-9EBB-9E0807AC4649"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "AE2EEB6A-EF9E-4F04-BD89-BDEC8303B81F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99C322A0-86AF-42B9-A557-BEA7D1F2AF50"
+    }
+  ],
+  "name": "Icons/Social/YouTube-16",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B6792ED-E625-44E5-A6C0-A1B68D54324C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

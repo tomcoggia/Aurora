@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F51ADE09-E9FD-4C01-99C8-D85DDA1C3407",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB12741E-EB4D-437E-9DBC-8DF65C39B6E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "183641DB-96DE-44B3-977B-631091428AA5",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "67AC3FD0-A9F9-45DA-AE5F-1F0F7876F0D4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9A197159-5F11-4511-8964-9F4E2193902B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FAD5830E-9D79-433E-A3D4-4C7A62334B94"
+    }
+  ],
+  "name": "Objects/FoodBev-16",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D80E54EF-0287-4060-B95F-D6E88E1AF3C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

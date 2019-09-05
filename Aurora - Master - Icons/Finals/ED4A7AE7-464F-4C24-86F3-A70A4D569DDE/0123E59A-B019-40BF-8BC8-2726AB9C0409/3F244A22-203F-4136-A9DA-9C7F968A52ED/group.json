@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F244A22-203F-4136-A9DA-9C7F968A52ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 417,
+    "x": 16,
+    "y": 361
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "084445B1-275D-4533-A0F5-1238C70E5338"
+    },
+    {
+      "class": "rectangle",
+      "id": "C01873E5-4512-4CF5-A420-39D5D720DA40"
+    },
+    {
+      "class": "rectangle",
+      "id": "E154AFD5-5859-459A-80D0-25A68677DCFF"
+    },
+    {
+      "class": "rectangle",
+      "id": "06DA04EA-BF65-4A40-AF39-E5018CDC9B74"
+    },
+    {
+      "class": "rectangle",
+      "id": "06783E71-945B-4311-9D62-FDADAC4A11FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "5475C551-B1F0-4C0B-AA0C-63D50F7014C8"
+    },
+    {
+      "class": "rectangle",
+      "id": "B158C792-E347-491B-B95A-4B2801BA1618"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4E396F0-67E8-4487-8D62-B147D82CBF1C"
+    },
+    {
+      "class": "rectangle",
+      "id": "E4385992-ABD3-42B3-AC6D-DFD8F56B6913"
+    },
+    {
+      "class": "rectangle",
+      "id": "F3FFF344-F32E-4C67-A901-810B759B8FF9"
+    },
+    {
+      "class": "group",
+      "id": "E957FE2C-BE68-4ED3-807F-3C8A68D02E86"
+    },
+    {
+      "class": "rectangle",
+      "id": "9AB9EF5A-3E7F-418C-9342-990EDEDAFF81"
+    },
+    {
+      "class": "group",
+      "id": "9CDAFFF0-F334-43B0-97B6-1684E9A82EAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB284492-3536-4CCB-9BE4-400A71134370"
+    },
+    {
+      "class": "group",
+      "id": "B6315CAF-06BC-4281-AD09-B8F8CCECE1FA"
+    },
+    {
+      "class": "group",
+      "id": "BF3D4F5C-DED3-4DA8-99BC-7A7B7922C1FA"
+    },
+    {
+      "class": "group",
+      "id": "BDF12FD8-CF51-4189-AE61-EF66EB17D295"
+    },
+    {
+      "class": "group",
+      "id": "4B8EC4EE-2D1D-49CC-AC06-137A58FA9106"
+    }
+  ],
+  "name": "Cart Copy 5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

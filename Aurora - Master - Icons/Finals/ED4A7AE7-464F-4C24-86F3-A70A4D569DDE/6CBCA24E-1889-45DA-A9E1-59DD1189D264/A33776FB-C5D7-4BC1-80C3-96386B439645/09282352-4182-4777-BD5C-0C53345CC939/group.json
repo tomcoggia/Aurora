@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "09282352-4182-4777-BD5C-0C53345CC939",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "008F99DD-D383-4791-B842-3B5A568AF6EA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "29B97542-DC9A-4DA2-AED5-902A6A9FD369",
+    "height": 16,
+    "width": 16,
+    "x": 40,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DCE3173E-CB4C-45D2-8934-E5B443B280CB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "DFEF8694-D372-4903-9F8B-59FAA8305CDD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "47FF7CE8-FAFE-4DEB-AD1A-DF567E056456"
+    }
+  ],
+  "name": "Icons/Objects/Pricing-Log",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1EFBC20F-543E-4684-9E8F-2A800AE1FD33",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

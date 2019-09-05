@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0283CC06-7CD1-4806-B40E-9535BAC712E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EFD52B7-2D3B-491C-98FA-6F6492FD7314",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76E6C1E5-2FF2-42B0-9F72-97A09B077A3B",
+    "height": 24,
+    "width": 417,
+    "x": 16,
+    "y": 96
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "82D1C606-20E5-49DF-87AD-CF97C2AC72A5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "43283DD7-A1C7-43DA-881A-9DF9B85BBD0F"
+    },
+    {
+      "class": "rectangle",
+      "id": "7EF4814F-2902-48F0-BAEB-5AFD37C8AE65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0416FF5A-C483-4854-B76F-C387BBA36031"
+    },
+    {
+      "class": "rectangle",
+      "id": "ADC935FE-6158-4B60-A114-0997DC8A125A"
+    },
+    {
+      "class": "rectangle",
+      "id": "2E58BFF5-D3D9-433B-B9E0-E651C342BE4D"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9663271-40E3-4095-BC50-1962B73F3115"
+    },
+    {
+      "class": "rectangle",
+      "id": "CDFB2CF8-F025-4EC8-9AB7-0A61707699AC"
+    },
+    {
+      "class": "rectangle",
+      "id": "6A978DAF-983F-4065-A8F3-271DCCDBEB6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "DC4EB6E5-2CE9-4C79-98D8-FA0EA05215A7"
+    },
+    {
+      "class": "rectangle",
+      "id": "3306EA0A-FB1E-4457-B914-CBA1F6C06D5D"
+    },
+    {
+      "class": "rectangle",
+      "id": "2C1FDDA3-A3E1-4D7F-8D94-AC4008599782"
+    },
+    {
+      "class": "rectangle",
+      "id": "F630CBAE-8759-41F6-A656-481E0D000FE6"
+    }
+  ],
+  "name": "Volume 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A241CE22-571E-46BD-A585-8759DBB43555",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

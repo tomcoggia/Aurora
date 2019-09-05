@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "90E4E42F-B475-4912-9CF8-28E999E5DDC0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9729F202-7E90-4E92-9081-F20AA1914477",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "942FA21C-EA31-44C9-BE23-EB56759134B2",
+    "height": 24,
+    "width": 24,
+    "x": 273,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8C0CDD8F-1CAE-4603-B297-9EADE87D64B1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2BCD8E57-7286-440D-9CCC-DDCFA5B7C72C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C1BB305-2852-4ADD-87C1-BDB1A6409CA7"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Outline/Diners Club-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB3BD268-749D-4545-911F-F3817A2089B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

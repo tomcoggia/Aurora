@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "579E8A9D-659B-4C75-81D1-8BCE96B079E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EB25F79-7DC3-4F9F-A4D5-E7888A40E42B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "769F83C7-8B00-4833-B327-428D353D1977",
+    "height": 16,
+    "width": 24,
+    "x": 0,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "08CED5D2-4ABE-4164-AC92-C2477975B503"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E2023A5B-9F07-4CCB-A5FB-1D3FC370C47F"
+    },
+    {
+      "class": "shapePath",
+      "id": "80717CE0-E9A1-4C2F-B4E4-7E4E64709214"
+    },
+    {
+      "class": "shapePath",
+      "id": "FAB62D79-941B-45FB-A067-790E13A3C48F"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB0CBF44-D888-44B6-898C-74A6A4D11217"
+    },
+    {
+      "class": "shapePath",
+      "id": "B90208E2-D72E-4857-BA76-DBB9B9203F95"
+    },
+    {
+      "class": "shapePath",
+      "id": "CED1DE30-88BF-432A-ABDB-4EF1C9327174"
+    },
+    {
+      "class": "shapePath",
+      "id": "0981A57D-8FCB-4CB0-BDAA-7C3E3ABF16C5"
+    },
+    {
+      "class": "shapePath",
+      "id": "53B6B1C7-D60A-4C79-97A6-C84EBAF1EF6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1783288-7170-4BF8-81FC-5F1782B85CDD"
+    }
+  ],
+  "name": "Group 637",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8DA5965-A706-4843-BF9F-14AF177B4FA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

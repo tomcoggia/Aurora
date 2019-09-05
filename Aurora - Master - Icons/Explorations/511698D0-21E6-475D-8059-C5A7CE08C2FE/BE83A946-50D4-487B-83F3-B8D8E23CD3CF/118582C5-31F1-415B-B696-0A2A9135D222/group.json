@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "118582C5-31F1-415B-B696-0A2A9135D222",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31E1A4EB-DA1C-4615-9F35-0C4DB536BD68",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "67DB19AD-DAF3-4034-957B-AE1D0C3B9A54",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AEC8E410-EFB1-4F6F-9DFE-EB2B46CE0487"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FA000C4E-67FD-4E0C-BA96-D0692E1EE88B"
+    },
+    {
+      "class": "shapePath",
+      "id": "897C8877-7186-468F-8446-83C99FE7D9A1"
+    },
+    {
+      "class": "shapePath",
+      "id": "6C1DA61C-F38B-4504-B2A3-589B5E4DA825"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC71F346-1FDD-41EA-AA40-8E802228B91F"
+    },
+    {
+      "class": "shapePath",
+      "id": "7AB2BBEE-6A17-4926-B5F1-FBFA879C0D5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "D6458BBC-E3E1-4242-96F2-8B964B3C1161"
+    },
+    {
+      "class": "shapePath",
+      "id": "1818F61D-D6AC-47E3-9E5A-74813EA866CB"
+    },
+    {
+      "class": "shapePath",
+      "id": "C67C3311-51BE-4C93-BB7F-C5D40C146CAB"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8BE81ED-4AD9-4072-A02A-E04B71745BD9"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B350CD6-175C-4278-A534-56FC03D6373F"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B536100-D826-4E40-8FC4-9D527FFA6B79"
+    },
+    {
+      "class": "shapePath",
+      "id": "CABE4C27-B197-4789-9B84-DB946113AC6C"
+    }
+  ],
+  "name": "venue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A7AD461C-35CB-4AD9-9E31-36D5FF868311",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

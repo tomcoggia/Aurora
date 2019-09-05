@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7E20286-2536-4952-8FEE-033C9ADCB77C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA03D01B-5E2D-4E46-A5FA-9DF6790E52CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B0A91EB-C126-4213-96AE-42648F05EAD5",
+    "height": 73,
+    "width": 157,
+    "x": 82,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdowns/Selector/Top Label/36",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B9888E8-8FFA-419D-85FE-96E090E1F82D",
+      "overrideName": "522BF737-1918-48B7-9674-547F56B2CAEC_stringValue",
+      "value": "Paul McCartney"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5F12A9A2-D12F-4D64-96DE-93446B6E8FD7",
+      "overrideName": "CA2BA33C-EF55-448F-8AB1-2CE07F309D09_stringValue",
+      "value": "Favorite Beatle"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "162720D2-EF47-41BE-A28A-EF37460F69DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "64CBF65C-5ABF-45C5-9B79-55E374D7D8D4",
+  "verticalSpacing": 0
+}

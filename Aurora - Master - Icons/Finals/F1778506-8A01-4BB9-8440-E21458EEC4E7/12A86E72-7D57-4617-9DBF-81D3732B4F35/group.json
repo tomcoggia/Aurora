@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12A86E72-7D57-4617-9DBF-81D3732B4F35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B1DA0BC-B908-4F04-8EE9-007C688A1516",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CA29E8C-698F-4809-BDE7-0FB399F78FB2",
+    "height": 104,
+    "width": 449,
+    "x": 24,
+    "y": 52
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "12B85D69-264B-4A57-9946-635EE10CF055"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "ABBA1DF2-03ED-472A-BFB4-077942B6E72D"
+    },
+    {
+      "class": "group",
+      "id": "9E2D89BF-6CC7-46A9-836E-8D240161D622"
+    },
+    {
+      "class": "rectangle",
+      "id": "C8F25AB7-DEC0-4967-BACF-EC438C3074FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E655D289-F9D9-43BB-B571-34B3CA92C931"
+    },
+    {
+      "class": "rectangle",
+      "id": "8C406574-FD1D-4703-B1DA-9BE7D1640A25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05807A48-3B82-49A4-B399-8CC101F88466"
+    },
+    {
+      "class": "rectangle",
+      "id": "8AF155EC-D55A-4815-B713-40AF076C324C"
+    },
+    {
+      "class": "rectangle",
+      "id": "970BA378-47D5-43A1-A7FA-784F94D07DD8"
+    },
+    {
+      "class": "rectangle",
+      "id": "9394D0EE-E4CC-4C81-AFF2-6322BDB0CD26"
+    },
+    {
+      "class": "rectangle",
+      "id": "AAA3FC17-655E-40D1-AA87-6C2E8B36E844"
+    },
+    {
+      "class": "text",
+      "id": "01C8208C-FE67-40F7-9007-E540015D7578"
+    }
+  ],
+  "name": "Facebook",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "798299AB-1C95-4E06-AE2C-523B0A2A3DBE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

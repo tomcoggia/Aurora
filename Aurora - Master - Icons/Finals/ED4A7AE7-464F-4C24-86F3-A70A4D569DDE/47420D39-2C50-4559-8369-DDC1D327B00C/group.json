@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47420D39-2C50-4559-8369-DDC1D327B00C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "538FCD82-5151-49C8-B086-DCAFBD0AA875",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F025CEF6-76B2-4889-BC2A-14283FB255D0",
+    "height": 56,
+    "width": 449,
+    "x": 24,
+    "y": 1454
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "96DF360D-3E90-4EC5-963C-E3C31509CB96"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "77548D21-AE7C-406D-8859-BC27D95C993A"
+    },
+    {
+      "class": "text",
+      "id": "6DC0977E-7271-4D45-BB17-1A3DBD8C8ABC"
+    },
+    {
+      "class": "group",
+      "id": "E1D56717-19E0-43D5-91BB-1360EE8F0A70"
+    },
+    {
+      "class": "group",
+      "id": "342CFD31-B579-411F-8BC2-D16E4477DFCF"
+    },
+    {
+      "class": "group",
+      "id": "6EA62B5A-E2BB-40A5-9D7C-02E9E63D3F99"
+    }
+  ],
+  "name": "Pie Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8813A07E-1403-4FDD-9BBA-92CCA3D63913",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

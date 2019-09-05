@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "41524799-A2B4-4A62-BAEE-C8A10E2EB0E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B220933-3722-45C8-B50C-E5A397733FF2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4889F60-A938-45BC-BEE6-595A18D370ED",
+    "height": 24,
+    "width": 24,
+    "x": 42,
+    "y": 672
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BAB53661-6AD3-41D1-889B-F8F1EB8EAB2A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "884A6AFC-834D-4C1B-BD12-9A4F4B194BAE"
+    },
+    {
+      "class": "oval",
+      "id": "3B703EFA-9510-4017-8D96-285CBA85141C"
+    },
+    {
+      "class": "oval",
+      "id": "F240C9EF-FE71-489A-A3B9-831953DDA9A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "EF00B45A-5E27-4F63-99D5-485E8310C6CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "A210A7F3-76C5-4259-B335-7948EAC57859"
+    },
+    {
+      "class": "group",
+      "id": "46850B30-FD2F-47DC-AC96-2502AD48EC05"
+    }
+  ],
+  "name": "Icons/Actions/Sell-Tickets-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84D63E7B-AE1A-4960-B4F3-84E856AD9C4A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

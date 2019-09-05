@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BE4247FB-D841-4657-9E67-ACD0BB889CBD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "880E0435-AB3C-49D1-8354-04BFE968F1DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1379F1BE-5AD8-4EAC-B713-4CB4E65622FC",
+    "height": 10,
+    "width": 14,
+    "x": 0.8983946344173788,
+    "y": 3.385061313799704
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0AF69A55-6DA2-4844-B5FD-A855C5C2C672"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CC423A80-F103-4BEE-969B-73CCE2751F2A"
+    }
+  ],
+  "name": "ticket",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 45,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7A4BA2B7-B381-48D2-9BC8-45960D39FB83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

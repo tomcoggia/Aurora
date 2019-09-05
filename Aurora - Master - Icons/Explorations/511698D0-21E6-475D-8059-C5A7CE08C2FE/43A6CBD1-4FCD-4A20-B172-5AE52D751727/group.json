@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "43A6CBD1-4FCD-4A20-B172-5AE52D751727",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACBFAD2E-C43B-45AD-BD39-7FE05CB51E28",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4A3FC823-0B23-4F50-9265-D3B71EFD0651",
+    "height": 16,
+    "width": 16,
+    "x": 620,
+    "y": 108
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7A2FAFD0-739B-416E-AEE3-D596022CC868"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "81DA9095-3D21-406A-B122-CBF1634D0560"
+    },
+    {
+      "class": "shapePath",
+      "id": "13ECF5F5-FDED-426A-99F5-BFB46EDB1A35"
+    },
+    {
+      "class": "shapePath",
+      "id": "10BFF6AA-EA3B-4350-B5FA-AC2281198266"
+    },
+    {
+      "class": "shapePath",
+      "id": "D9FF08D0-DF74-40D9-9B1B-76B9D07A748E"
+    },
+    {
+      "class": "shapePath",
+      "id": "F802F26C-4EF8-44AC-9746-92C3F83CF077"
+    },
+    {
+      "class": "shapePath",
+      "id": "948252FD-F3ED-4B18-AC0E-997D11EC773B"
+    }
+  ],
+  "name": "Icons/Objects/FoodBev-16",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2633A1C-6AD2-4560-98D3-C28114E1564B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D5024B48-3427-49A9-93D8-E6CB4A3B82F4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77ABE0E5-154E-48FA-B02D-647C29486684",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4A4C6CA2-2A24-44B2-B0F7-F57086CA8C03",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BA7F8E53-5408-42A6-A4DE-74BA234FD5B0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "66387704-FC69-4F82-8253-E5AD27DDA191"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD20F09D-5692-4578-8481-9BA569D1A1E8"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Outline/Mastercard-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A314483-2536-4AC1-88FA-50B161F8CD7F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "509AEA2F-AC5E-4FA3-B51E-02378C2FAAAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13D9C1FB-8B11-4E5B-B2E1-0B9B250669C5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0BEA52D-8673-4389-B42E-4F5349A4A8C0",
+    "height": 18,
+    "width": 100,
+    "x": 76,
+    "y": 9
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E51954BB-AEDC-4D69-B88F-0CE07C71FA21"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DD5A7330-23B7-414D-8254-F49B366D75A1"
+    }
+  ],
+  "name": "States/Inputs/Text/User-Input-36",
+  "nameIsFixed": false,
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "165AB56B-B783-4BD7-ACD3-D1B24EEE3450",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "A856C831-08DC-4BF9-89E1-C4CB9094F122",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

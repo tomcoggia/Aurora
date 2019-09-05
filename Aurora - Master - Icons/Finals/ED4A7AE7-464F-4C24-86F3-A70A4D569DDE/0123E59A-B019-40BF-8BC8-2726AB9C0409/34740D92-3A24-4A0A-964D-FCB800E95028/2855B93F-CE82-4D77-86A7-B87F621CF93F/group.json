@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2855B93F-CE82-4D77-86A7-B87F621CF93F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BED743ED-2F79-4F03-8AC1-5855B66E70F9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F92144D4-C43B-468A-931D-C3DA2D1D1979",
+    "height": 24,
+    "width": 24,
+    "x": 185,
+    "y": 32
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B6BC3726-0DB8-439B-BB3A-821B5F018E46"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7256A46F-3E6A-4CB6-B93F-17DBC6FD33CB"
+    },
+    {
+      "class": "rectangle",
+      "id": "6718ECA6-603C-4FD4-8414-B5445DF18D07"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A384DDB-0535-4F18-A19A-73692C59B2BC"
+    }
+  ],
+  "name": "diners",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "11D0EBED-5E0F-4E74-A1EA-CBAEF8E0DDBC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

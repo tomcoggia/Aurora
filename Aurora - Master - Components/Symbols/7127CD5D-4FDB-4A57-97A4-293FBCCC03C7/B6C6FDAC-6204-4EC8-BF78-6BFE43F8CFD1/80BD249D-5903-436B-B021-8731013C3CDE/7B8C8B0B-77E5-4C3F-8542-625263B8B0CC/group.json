@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7B8C8B0B-77E5-4C3F-8542-625263B8B0CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BF9B0EB5-7970-4B3B-A671-20007D4C5A6C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C403055-BDF9-47A9-85A9-2305DDEB35A4",
+    "height": 18,
+    "width": 34,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D5729D0D-484A-4068-8D9F-D456541BD8CC"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "655718EA-7D0F-4AFF-9FB5-7D5D92DC1B59"
+    }
+  ],
+  "name": "States/Inputs/Text/User-Input-36",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80D2E0E3-6C45-4D55-8CCB-80E2BFFE8228",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

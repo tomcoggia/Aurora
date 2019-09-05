@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E68D02B4-EB33-4EE9-B004-F0E5FA09C293",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 84,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD79B55B-27B1-4045-9E4B-6AD546139528",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1FCAFF14-D8A5-461B-A350-31390D502690",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "44BF9A4F-FE59-41D2-9BDD-95FF09F349FB",
+    "height": 24,
+    "width": 24,
+    "x": 98,
+    "y": 90
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FB4782E7-A250-4BA3-9329-607BE9D3ECCA"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "95C41E59-4A23-4613-A468-09574B452233",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F7CBA49F-4658-4609-9796-C76920B2DF9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BBD20968-4CEA-414C-B8FA-C0E02306EEF7"
+    }
+  ],
+  "name": "Icons/Decoration/Calendar-24",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BBD20968-4CEA-414C-B8FA-C0E02306EEF7_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE271A08-035C-4317-BF61-5E9575C1291C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42480C07-76BE-4655-9E3F-2EB2B95174B3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6856F7A8-EE04-445E-8406-625C2488CB17",
+    "guides": [
+    ]
+  }
+}

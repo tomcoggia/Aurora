@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "00BC5C07-993C-4454-9667-9090F7BF27FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C103D538-D7A9-4D15-A562-6F2A1D61EC3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1471B0D9-F161-4D2A-82D3-028CDAA6BD35",
+    "height": 36,
+    "width": 133,
+    "x": 8,
+    "y": 8
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Item 1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C33C793A-127E-4116-B326-667550AEB35A_symbolID",
+      "value": "60170B5B-2BA4-418C-BFF2-2AA48FFB49DF"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "64209B55-7621-4C7D-8F5D-A8C5439E4485",
+      "overrideName": "87ECA8F9-BA44-4725-8DB1-C4340669C82D_stringValue",
+      "value": "Ringo Starr"
+    }
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2AE80125-896A-442C-86CA-4DE4635F2A51",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3C24DDB4-1419-4C56-A9E4-30C3D7EA7A6A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

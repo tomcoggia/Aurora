@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A2DA49D-98F7-4575-B3F9-E6E6182F2864",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "73CAB9A3-4540-4561-923A-60D7014D76FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DAFD292D-0D4B-4EFD-A3E9-1C60425D384D",
+    "height": 24,
+    "width": 24,
+    "x": 145,
+    "y": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BA6DBCD9-BEEE-49CE-8C62-94C534E81A09"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5C389AB2-55FC-4A58-9670-9E5E2AF83A65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF430A66-578A-45AD-880D-860E8664064B"
+    }
+  ],
+  "name": "Original Seat Select Tool",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19AB5371-9C2E-4384-8B58-D56847AD8A3F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

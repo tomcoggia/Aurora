@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C52A8268-9A11-4B50-B3CC-88A0A557E85B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "964ED5FB-1D17-4B92-A3FD-B36A78DE366B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03F2D02C-01B7-4C27-A4C4-1F92919D0253",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E2F0C5DE-7534-4086-93BB-A687074B96D3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4347057A-0A8E-4217-8CFE-B4F12F546A4A"
+    },
+    {
+      "class": "group",
+      "id": "BFDB4665-B8ED-4323-8DF0-A12344BA533A"
+    },
+    {
+      "class": "shapePath",
+      "id": "70BA2C22-BA4E-4C52-B93A-1D8815781B11"
+    },
+    {
+      "class": "shapePath",
+      "id": "DACF3053-A1DA-40C5-A7C9-059F6ABDE915"
+    },
+    {
+      "class": "shapePath",
+      "id": "53A1AFC0-1311-46E1-ABED-EC74C0584E35"
+    },
+    {
+      "class": "shapePath",
+      "id": "F2DA61B0-8EE2-4382-A458-2853DBC2A1F5"
+    }
+  ],
+  "name": "Icons/Actions/FAQ-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0433F34C-102F-4B72-9E2D-349340C86DAD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

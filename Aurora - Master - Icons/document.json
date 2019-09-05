@@ -1,0 +1,808 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "3C94EB3E-9866-4649-A84E-ED468F02B328",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "57.1",
+    "build": 83088,
+    "version": 119
+  },
+  "pages": [
+    "Finals",
+    "Explorations",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    },
+    "com.lingoapp.lingo": {
+      "connected_kit": {
+        "kit_uuid": "EB8BFA60-0292-464C-8246-13D98425B927",
+        "space_id": "90716",
+        "version": 29
+      },
+      "first_version": 131,
+      "min_version": 84,
+      "storage": {
+        "hashes": {
+          "colors": {
+          },
+          "layerStyles": {
+            "233CC6E9-E147-44F6-893F-A388B41795DD": {
+              "hash": "bfc14983195caf7736b959461240538a503c9c19",
+              "name": "Icons/Onyx"
+            },
+            "27EF5AB2-5841-44A4-B9A2-D79B7C5C9213": {
+              "hash": "2c0d04c1669c450f3454cafd2db7335306142946",
+              "name": "Containers/Page"
+            },
+            "28F2DE0B-62C2-4E31-A248-3E2640DD4079": {
+              "hash": "61ac86a6f0e3927c6d234a333be4d07f67343f16",
+              "name": "Icons/Turquoise"
+            },
+            "2DEFA7E6-345D-4B5C-AF65-A9B4A11282FA": {
+              "hash": "2898b07a959c674001a23367a55340eacfbb3c5c",
+              "name": "Icons/Azure"
+            },
+            "38444678-3EBB-456E-A0FC-66526DD3A23A": {
+              "hash": "050519a375d1f9aa52a8ee80d101d885e927d9bc",
+              "name": "Feedback/Success-Fill"
+            },
+            "451F3558-88F3-418F-868A-02C63382F694": {
+              "hash": "94187498e2fb625b920eaef9b65309572abbdffc",
+              "name": "Feedback/Error-Fill"
+            },
+            "54436047-9613-44C3-B207-72779CF8AA1A": {
+              "hash": "380a67004681369998ec1928f20a557bbb235cf9",
+              "name": "Feedback/Caution-Fill"
+            },
+            "84D06E57-C217-4916-9398-718E4E4F8957": {
+              "hash": "35cc5975590775f3075277780064ca9515107896",
+              "name": "Feedback/Info-Fill"
+            },
+            "905AF934-4C0B-4A31-93DD-6640EACADF15": {
+              "hash": "d0eea1c870d039bc4c67b34a5ef396bf88486bde",
+              "name": "Icons/Stroke-Center"
+            },
+            "B0A5E962-44BC-4F73-B6DC-76CEB1E36D1A": {
+              "hash": "38664fc3c469b55a01760fa79bd375f1fe3aa784",
+              "name": "Icons/White-Transparent"
+            },
+            "CD807D11-58D5-4A87-82F3-FCF90236D4AB": {
+              "hash": "d4513b12e17f587d72c11daa15a95d3d07fafeb1",
+              "name": "Icons/White"
+            },
+            "E4473BF7-6E6D-44C7-8D3B-68FE0860341D": {
+              "hash": "b4c8059e5e9dc69d2df0be717c79c9b94d57b268",
+              "name": "Icons/Default"
+            },
+            "E6F2E233-037F-46F9-A354-F1B52247CA5F": {
+              "hash": "00f37dc7f710285a617471a29cad2cfa8cad8059",
+              "name": "Icon Frame"
+            },
+            "F7BD146D-9C25-4226-80A2-C36512547267": {
+              "hash": "82b8d7d04090671107e1b12f6659b18049b875ed",
+              "name": "Icons/Default-Stroke Only"
+            }
+          },
+          "layers": {
+          },
+          "symbols": {
+            "0097A241-1315-4C34-B19B-8B25C0E3490C": {
+              "hash": "d098f19343a90df4c6b629876f61febf6addcf82",
+              "name": "Icons/Actions/Add-24"
+            },
+            "0161519E-FE7D-4A25-B1A7-B5BF7C87800C": {
+              "hash": "f3352bba9af522820b653cdc92be8a123ffaa503",
+              "name": "Icons/Social/Outline/Twitter-16"
+            },
+            "058EFE4C-F3E8-42EF-A913-114AD81C159E": {
+              "hash": "580f9d4e9eb7b8e5aba25608c509207a9190accb",
+              "name": "Icons/Actions/Plus-24"
+            },
+            "063D4B13-3DD9-4841-825E-D16988CECCD0": {
+              "hash": "6a17c9ccf586f30be2a4471d8812e5406a527a6a",
+              "name": "Icons/Decoration/Standard-Mail-24"
+            },
+            "06A5CE84-761B-48E0-AE79-68DDC151F380": {
+              "hash": "34c4828a0c2e70e1eb556dc8c6a3d65d7d78f76a",
+              "name": "Icons/Social/Fill/LinkedIn-16"
+            },
+            "0709304E-ACDE-4E61-BED5-E773CFAB73D4": {
+              "hash": "7d45144659927c1d16083da74c7a11a312e83682",
+              "name": "Icons/Actions/Pause-24"
+            },
+            "0A953D3A-1870-4AC1-BB49-A02B0FC742EC": {
+              "hash": "ef5f597657fce991be1eff6d724b14c8acab6815",
+              "name": "Icons/Actions/Call-Us-24"
+            },
+            "0CDC2F2E-F810-49BA-81F9-B809BA0B0333": {
+              "hash": "fa0b6344c9bd7c8bf10734bc127df6ce6409da59",
+              "name": "Icons/Actions/Link-Out-24"
+            },
+            "0D241A22-B58C-4F71-9F88-2FCCDFB8E10A": {
+              "hash": "ab824e4515ba652a9c589a7264116598e7308f76",
+              "name": "Icons/Actions/Add-Event-16"
+            },
+            "0E5B3B1D-E479-4243-A9C5-7F5A8B786386": {
+              "hash": "b02d18b565affb62ad05a062450962d77a953a1e",
+              "name": "Icons/Decoration/FoodBev-16"
+            },
+            "0EDDD781-0C0C-4DEE-B4A3-C8EEAD137C31": {
+              "hash": "e3fd16db2b15a23a236be72a95fb9b718425da5a",
+              "name": "Icons/Social/Fill/Twitter-16"
+            },
+            "109FA76A-EDDF-40F4-8EFF-E57DB1214184": {
+              "hash": "b8e7ce81c58c7f32262c79d62e9c659d58f2fbd1",
+              "name": "Icons/Actions/Expand"
+            },
+            "1259F358-CD73-4437-B458-EC97B35217F2": {
+              "hash": "975939648e9469511e4fd7550490c96f4ffe6d7f",
+              "name": "Icons/Actions/Link-Out-16"
+            },
+            "1368A1FB-9752-4C3C-9D01-842A65B113FF": {
+              "hash": "14a76f079aa1f900587acf80c3e8d52568e9d3dd",
+              "name": "Feedback/Badges/Dark"
+            },
+            "16C20D1B-1FB0-4FC3-94E0-05D120F37D8B": {
+              "hash": "3fcfebbc48157c6b8eda8e26d74c4ea9f423579a",
+              "name": "Icons/Actions/Email-16"
+            },
+            "191A0BA1-9280-40CA-BD01-507D3B406B3D": {
+              "hash": "e8bbe30063c526b96137e20b9a068c1ffabd2074",
+              "name": "Icons/Decoration/Ticket Management/Exchange-Tickets-24"
+            },
+            "1A2710A4-230A-4838-B84C-DBD72150B3EB": {
+              "hash": "ca5e6329a325cf2cbaabae9651d6c2ee686c0378",
+              "name": "Icons/Social/Outline/YouTube-16"
+            },
+            "1A88F088-4F7C-4E1D-8C39-0AB7759ACCAD": {
+              "hash": "59cb4b2c566bf55928082f9304eba1f9c12dd580",
+              "name": "Icons/Actions/Close-16"
+            },
+            "1CE0208C-0F88-4304-BF72-CFFD9419F763": {
+              "hash": "e3dfaec7d9c5c0a2aaa9f8f02e462110e3fd3b2c",
+              "name": "Icons/Actions/Kabob-16"
+            },
+            "1D57D6E2-E065-48BF-BAE4-961F68D52F5E": {
+              "hash": "f739fd84240c71b4c8413279d4125d5889a84ce4",
+              "name": "Icons/Decoration/Location-24"
+            },
+            "204E4F1F-0445-400F-B9A0-1F5F475774B1": {
+              "hash": "b449a87282f921363b41cd308714b060197098b9",
+              "name": "Icons/Social/Fill/Twitter-24"
+            },
+            "2754C9B7-454D-43E1-8306-AD9C5FDD1B4B": {
+              "hash": "fa16a7045f9b43f57b6bfca8f21f56c786fd3eae",
+              "name": "Icons/Decoration/Phone-Support-24"
+            },
+            "279BEC28-2505-424D-A9EB-9540D308B9CA": {
+              "hash": "1f1773f3f2f31e099674a964a2e0a86492dc0d9c",
+              "name": "Icons/Tools/Select Seat-Outline"
+            },
+            "28F4E201-F91C-49A0-BAD5-8783917B9366": {
+              "hash": "edd184fea97ab635c48f0d1587058ffebf56fe7b",
+              "name": "Icons/Decoration/Ticket Management/Sell-Tickets-24"
+            },
+            "2A7CB992-400C-406E-9F65-04E19ABDD2A4": {
+              "hash": "a7dbc7af0eb906bb0d9f11a48aff0ce4f02afe8c",
+              "name": "Icons/Social/Outline/Facebook-16"
+            },
+            "2BC5A2E2-F4A2-4866-9A4E-BC4FC23EB8AE": {
+              "hash": "48ec458a2f71802678cf034a1f88d33e41bc171d",
+              "name": "Icons/Social/Outline/Facebook-24"
+            },
+            "312D4C2E-B83F-47DE-8CBA-86FA08D68659": {
+              "hash": "485463885fcf8c383b3011299fb47b5b7c03bb79",
+              "name": "Icons/Decoration/Ticket-16"
+            },
+            "33924F34-B288-4C1F-BBBC-2D47DDD27C87": {
+              "hash": "c08b9a108dcb2fe7723ff615b845165d9271e652",
+              "name": "Icons/Indicators/Feedback/Info/Info-Filled-36"
+            },
+            "33B0FF23-53E8-4147-B3AD-259F1510026D": {
+              "hash": "3eb70d6d640f569e4ce53a1930ae9e6d21b1569f",
+              "name": "Icons/Decoration/Payment Methods/Brands/Amex-24-Color"
+            },
+            "33E89006-C433-4AA1-B7C1-3709A447F3FD": {
+              "hash": "53a0b0ac610dec0df189c592a557f17e118dd9ea",
+              "name": "Icons/Actions/Email-24"
+            },
+            "34D911F4-DA4B-42A3-A6E5-F3E8B3B5006B": {
+              "hash": "2eba108802c088e8aa513c53d24ea3d679a4e930",
+              "name": "Icons/Decoration/Pricing-Log-16"
+            },
+            "39431F34-C8CA-4229-BA3E-01DEFDEAB90E": {
+              "hash": "09ae30d1a2f5d5475c9bc2817aec426dc65d1beb",
+              "name": "Icons/Actions/Share-16"
+            },
+            "39E07F89-3F06-422F-8D6A-106716333E61": {
+              "hash": "41eea36a50811278fd7e47d22103a25176cb1d89",
+              "name": "Icons/Decoration/Payment Methods/Brands/Diners Club-24-Color"
+            },
+            "3A163ED2-3D5F-4CD8-9D73-C156862C6FCE": {
+              "hash": "16eda8bb987b152c44766d9cc034ca8883003c6c",
+              "name": "Icons/Decoration/FAQ-24"
+            },
+            "3B5DACED-5C2F-4559-BB3B-7C347A9705F8": {
+              "hash": "0e242e323144bf17b870c021ccdc3dcbe9ba5099",
+              "name": "Icons/Actions/Carets/Down-24"
+            },
+            "3CB816BE-EA3E-43B1-8FEC-E5B06156DCF4": {
+              "hash": "708973b01a71cb1c80399d2e53499de9eac5e0a2",
+              "name": "Icons/Indicators/InfoDot-Outline-24"
+            },
+            "3D482883-E5EC-4804-990B-5F67F32909AC": {
+              "hash": "f69ad894fff4e4983007bbdd863fb3342551faeb",
+              "name": "Icons/Actions/Share-24"
+            },
+            "3F5CED24-1299-4F47-BAF5-5D45BD308C68": {
+              "hash": "b6789326594ee0d1deded866972e1bf4a197cd9f",
+              "name": "Icons/Actions/Search-16"
+            },
+            "425889A7-872E-43BC-9350-4AE649B82595": {
+              "hash": "828273bd579b3ffc64d29970430f7c6df733c482",
+              "name": "Icons/Actions/Delete-24"
+            },
+            "42FAC842-927E-4C13-97D3-A2463F85A4A9": {
+              "hash": "bbf72257180b7a0344f63669574d681f6c673839",
+              "name": "Icons/Actions/Carets/Forward-24"
+            },
+            "438C24C1-A51A-4868-9E12-20C9FFD5ECA9": {
+              "hash": "e8f4205f2cb967be02b781fd870d44b1fceef1dd",
+              "name": "Icons/Decoration/Statistics-24"
+            },
+            "46B86C94-310B-4006-A443-26E06F925DF0": {
+              "hash": "238d69030bf8b9e17ffd8268b6d675e375aade4d",
+              "name": "Icons/Social/Outline/YouTube-24"
+            },
+            "46E761F6-4090-4DC3-A26E-0C9EF736641E": {
+              "hash": "d9e30b015760b92256d4d1839903a4b631f0ba27",
+              "name": "Icons/Actions/Add-16"
+            },
+            "4714BFEE-940B-4AB5-8144-7415EBA6C33E": {
+              "hash": "6d407766a237c6adc7f592841d283046db34054d",
+              "name": "Icons/Decoration/Payment Methods/Debit Card-24"
+            },
+            "4A7DE896-4267-4A99-A82B-B039F927F4B7": {
+              "hash": "535223f5bff780cc72c3777afda5ba1e9adb7faa",
+              "name": "Icons/Indicators/Feedback/Error/Error-Outline-36"
+            },
+            "4B33654A-4DF4-4BFE-8A81-2C932D781542": {
+              "hash": "d15abf872ff45abfa2cfe21b885cd4bef1f18200",
+              "name": "Icons/Indicators/Feedback/Success/Success-Outline-16"
+            },
+            "52145125-1054-4C6B-BE58-AB73F523D8C9": {
+              "hash": "c6d48a60f7f09df799ac5c84ac7a13e9fff4516d",
+              "name": "Icons/Decoration/Mobile-Device-16"
+            },
+            "53424B2C-48F9-429F-A1C0-7DA7F59D0563": {
+              "hash": "455720c76f67430d792d55038d4112dc75ef4749",
+              "name": "Icons/Actions/Carets/Up-24"
+            },
+            "5739CFD0-66A9-4E52-8059-4A8050B6E359": {
+              "hash": "ae45e42947a76366b408d735d0a125b9b0a0c669",
+              "name": "Icons/Social/Fill/Instagram-16"
+            },
+            "57757D1F-BC7F-4EB7-9217-7C5B68F2456F": {
+              "hash": "0511c81ac179ebe088e3febe57f0bce13c919115",
+              "name": "Icons/Actions/Minus-24"
+            },
+            "59216FE8-AF31-48A9-8281-184CF5A710E7": {
+              "hash": "d4e8a67cb5223e257419d89fe4f21aeb1be4728e",
+              "name": "Icons/Social/Fill/LinkedIn-24"
+            },
+            "5C13E1CD-8B38-480B-9EDF-8B9B8E00D104": {
+              "hash": "fac787e93c6ce3bcbe992a2211ea26851a50a858",
+              "name": "Icons/Social/Fill/Facebook-16"
+            },
+            "5C221916-FEB8-4EDE-B946-193500BA6324": {
+              "hash": "bf60c209c57a4f62eb97666d77270bd3e695df23",
+              "name": "Icons/Actions/Compress-24"
+            },
+            "5C5DD877-3CB8-47F1-A0F5-21FA2478F9CA": {
+              "hash": "7a7f8d28ee0048ef13d029f5f7d9fd94b13fae5b",
+              "name": "Icons/Indicators/Feedback/Success/Success-Filled-36"
+            },
+            "5E7FFC6B-A36D-4173-8C13-2394F7FD466E": {
+              "hash": "3de18e233675b3cfbdb89e5fa7d691772428c27f",
+              "name": "Icons/Indicators/InfoDot-Outline-36"
+            },
+            "60AFE6FC-AC0C-4FC8-A538-F8196ABF1E35": {
+              "hash": "acbfb35623d1f196ac5c76067b412bd8ce7873cd",
+              "name": "Icons/Actions/Refresh-24"
+            },
+            "636051BA-F879-4984-A819-B3959C8B8A20": {
+              "hash": "5820365fd41815f83c99836d5bbd3216dc22e8eb",
+              "name": "Icons/Actions/Carets/Up-16"
+            },
+            "636133B2-CA7D-4A67-9C6E-4D48A036FE7D": {
+              "hash": "63d918a5f1fc3358a29255be581a5edcdde78077",
+              "name": "Icons/Decoration/Seat-16"
+            },
+            "6706DB39-F4EB-4F97-896E-603827E1B90D": {
+              "hash": "569afdfb89b9ad8089c7cb30d5ec7a975bf0d02a",
+              "name": "Icons/Decoration/Ticket Management/Transfer-Tickets-24"
+            },
+            "68272C73-5843-4493-ADC6-92B24E44A9BB": {
+              "hash": "e95e2b18405cb51fec18cdab74c615a9e048699e",
+              "name": "Icons/Decoration/Will-Call-24"
+            },
+            "6E18EA6A-F42E-4757-A625-D7AD0F2DE929": {
+              "hash": "be0b8038495a66fd6179970c3082853ea3803aa5",
+              "name": "Icons/Indicators/Volume-00-24"
+            },
+            "6E71C0DC-8ED1-4E57-892E-B6082B1EEA7F": {
+              "hash": "595102d39b58b111aad516f7bde23d599d69b173",
+              "name": "Icons/Indicators/Feedback/Caution/Caution-Outline-24"
+            },
+            "6E753203-BFE5-4F55-98FE-6A92740BD113": {
+              "hash": "4d325fa158e6d1bb07b8848c40c4fbf3c82a7d75",
+              "name": "Icons/Decoration/Pie-Chart-16"
+            },
+            "702D888A-7CA2-453B-A317-4F6E93279E36": {
+              "hash": "f61851f95fee007cd653a4187bdcef045cd2dfc1",
+              "name": "Icons/Indicators/Feedback/Info/Info-Outline-16"
+            },
+            "718A91EA-C181-4B66-BE1E-3C072EC0104C": {
+              "hash": "b7c9f1422c0362bb04f8bff6db4006556009028f",
+              "name": "Icons/Decoration/Payment Methods/Brands/Discover-24-Color"
+            },
+            "74B43813-B51F-42C5-8B4B-5C97A99A2841": {
+              "hash": "4f945ea65fec499e390788cfd6880528401a3d5b",
+              "name": "Icons/Actions/Play-24"
+            },
+            "74F9ACAB-ECEB-437F-91CD-E94FFE2BA0BD": {
+              "hash": "75e9b23dc113379855f64de38a5a7fa8b3c7a046",
+              "name": "Icons/Social/Outline/Twitter-24"
+            },
+            "75E7FEE8-2FC2-4421-83BC-531AEC501BCA": {
+              "hash": "9bac2a179cada73ce8ee1e5b18c87641ce10d7d9",
+              "name": "Icons/Actions/Carets/Forward-16"
+            },
+            "76D3E57A-C446-4912-97FC-E66611DE1D68": {
+              "hash": "51d47d9015dc7ecfadad4142a5c65f67bdeef47a",
+              "name": "Icons/Indicators/Feedback/Success/Success-Outline-36"
+            },
+            "78CA0976-19E5-49FF-92A7-6D22BD8730AD": {
+              "hash": "89a0eb1c5af56ce559a3129c1493987a0be416f5",
+              "name": "Icons/Actions/Carets/Down-16"
+            },
+            "79256901-78CD-430A-84F2-CBD4E497E6AE": {
+              "hash": "9db00f2607c9f92f87bbba8fcc1f530a86f8afc3",
+              "name": "Icons/Decoration/Ticket Management/Upgrade-Tickets-24"
+            },
+            "7ACAC0BF-6091-460F-8FFB-6AA54EDC2C36": {
+              "hash": "56bf34e7371cc0a0ff13ae2f37403b224aa5ae2a",
+              "name": "Icons/Indicators/Feedback/Caution/Caution-Filled-24"
+            },
+            "7C0A9DC5-1BB4-4B4A-9132-EF99F924B0DE": {
+              "hash": "b16e625a2b85618c0ca6515c1b15547495d30fd8",
+              "name": "Icons/Decoration/Payment Methods/Debit Card-44"
+            },
+            "7C477815-CB1D-4168-B52A-4513482C0A7C": {
+              "hash": "2e5a98323e911001e5693054a041c838e51f239a",
+              "name": "Icons/Decoration/Mobile-Device-24"
+            },
+            "7D560859-E9C1-45A0-9D42-E39971E8111B": {
+              "hash": "77092a8181fe7c063eac39af5affe240e562fbf3",
+              "name": "Icons/Decoration/Statistics-16"
+            },
+            "7F405DE2-262F-4F3B-B6F5-D721B3CE3346": {
+              "hash": "c58d2ad52c2c2530ae8927cd73d77eac19ed1843",
+              "name": "Icons/Actions/Add-Event-24"
+            },
+            "7F4BB706-7DFC-4A20-B219-6A6BE6C718C7": {
+              "hash": "aded09fd031f696c621385458fc40e25f65bb0f5",
+              "name": "Icons/Decoration/Payment Methods/Brands/Amex-24"
+            },
+            "808F0523-D81D-40AA-B8C8-89549B7D0A68": {
+              "hash": "51bc20de7059499788a4be483f0c58dfbd48236e",
+              "name": "Icons/Indicators/Feedback/Error/Error-Filled-36"
+            },
+            "8104053F-7D0F-4E0A-84FB-44D4091256A9": {
+              "hash": "c04acb42cefe965ef0ddea527384bb181af7bede",
+              "name": "Icons/Decoration/Related Orders"
+            },
+            "82717699-2BF4-4BD5-AF1A-AED830765710": {
+              "hash": "1e16eee9707ca16af30d909aa066d69e8776daae",
+              "name": "Icons/Actions/Filter-24"
+            },
+            "83F438F2-CE5F-435B-B6D4-C8FFEC463215": {
+              "hash": "4916da8101ea0d8ea52092ef79e0e3b3fbb0a1f0",
+              "name": "Icons/Tools/Select Section-Filled"
+            },
+            "8605223C-2184-4C16-9279-BC462EF74475": {
+              "hash": "e1cf0f13fa85ff863f973a3ad4de6e453d321b03",
+              "name": "Icons/Actions/Edit-16"
+            },
+            "87495B42-7197-4A38-8470-FE5792CD8FEE": {
+              "hash": "dc89a0acc5143266ec833862166f245978d10c45",
+              "name": "Icons/Decoration/Fraudulent-Activity-24"
+            },
+            "87EEFF88-32CA-460D-97F8-2A32430DDF4C": {
+              "hash": "736534cd2bad0296b40ab9e9633bf3e284f904c8",
+              "name": "Icons/Indicators/Feedback/Success/Success-Filled-24"
+            },
+            "8942B42E-31FC-4482-BCA4-FE57458B50E4": {
+              "hash": "63b79d45ede55c93ea331151f364c07b7f6885e4",
+              "name": "Icons/Tools/Select Seat-Filled"
+            },
+            "8A1E52FA-3A82-46A8-87A9-90D8AC0B08D9": {
+              "hash": "70c986432867e84f098e25013bbfbb33f6f1b247",
+              "name": "Icons/Actions/Add-Ticket-24"
+            },
+            "8B558C0F-3BB4-4A32-8617-8A5AA57A1108": {
+              "hash": "4f3c0673cb4f32a632f72aecf163f985e1d1dfd8",
+              "name": "Icons/Indicators/Cart-24"
+            },
+            "8BB65A27-C4C0-4E89-A9C0-31D091C63802": {
+              "hash": "94d814abc5189ee6422191f3da24acb78637edce",
+              "name": "Icons/Actions/Close-24"
+            },
+            "8CEA00CF-ACB7-4545-AA34-7E735B2408FA": {
+              "hash": "b2315c162fb12df69d96af1f50ce30a4bc99280c",
+              "name": "Icons/Actions/Carets/Back-16"
+            },
+            "8D59AB08-F345-4B5B-B377-83EC642CD22F": {
+              "hash": "0d222202163acf906b0051abcb52c729a653ad4c",
+              "name": "Icons/Indicators/Favorite-24"
+            },
+            "8E7C2787-235E-47B2-AAD9-FE546E49D0B8": {
+              "hash": "c81984723f4222f8893825d86caaaea7112d3ad9",
+              "name": "Icons/Social/Fill/Facebook-24"
+            },
+            "900388DA-2266-4068-81E1-B15E22EAC618": {
+              "hash": "20941c1fe2bdf037afba3344c70f48b203eb4dfb",
+              "name": "Icons/Actions/Home-16"
+            },
+            "9047EE43-D3FE-404F-BB57-465EF7A15CFB": {
+              "hash": "d82df5f5ab6c1212befa17cb3931c7b4183d62ec",
+              "name": "Icons/Decoration/Seat-24"
+            },
+            "933027F5-F61B-459A-B20B-51B29A9CDC67": {
+              "hash": "e1f3573997657cc2380daae965d51410ae6d41ed",
+              "name": "Icons/Actions/Add-Ticket-16"
+            },
+            "946409FD-0AA5-4A9A-8353-07F9D8C5A83F": {
+              "hash": "741a68cb2b35e55f414f4e8b1f97f39abd3f443d",
+              "name": "Icons/Decoration/Ticket-24"
+            },
+            "969A510D-A528-4A62-B5E8-F96C32572F43": {
+              "hash": "5d1da1021588d911716477ff4098152791d098ac",
+              "name": "Icons/Tools/Select Row-Outline"
+            },
+            "970428A5-AC7F-4E22-908C-E6219DE5CB9F": {
+              "hash": "203ef41829de3b2ca2e6f452889d2e20773b0661",
+              "name": "Icons/Indicators/Broadcast-Deactivated-16"
+            },
+            "981936EF-65B8-49C6-A4E5-3BA300797FA6": {
+              "hash": "5d7b3aff52377e8eeeeb4989078f181be34cf0f4",
+              "name": "Icons/Indicators/Feedback/Caution/Caution-Filled-16"
+            },
+            "9821D1B4-ABBC-4490-BBEE-434C81D706E3": {
+              "hash": "efe9542dba6422ab1ea75551250b739c1fba625e",
+              "name": "Icons/Decoration/Parking-16"
+            },
+            "9BF1838C-BA16-4E4C-A027-3E24192E9F39": {
+              "hash": "c68ee704d821da0ee5e9436a696b2647ede039fb",
+              "name": "Icons/Indicators/Volume-03-24"
+            },
+            "A0207552-7D30-44C6-B668-0D8746E35299": {
+              "hash": "9885d835cef181039b55ef093a3cc9c1d282e3d5",
+              "name": "Icons/Actions/Get-Help-24"
+            },
+            "A39C298B-8AFC-4E01-A0D9-373CCEA2C3DB": {
+              "hash": "f2359522210600088019541854deaa73c7a33045",
+              "name": "Icons/Actions/Home-24"
+            },
+            "A495F616-447D-4AF8-BAC3-5FEB7667E9E5": {
+              "hash": "891325568121cbcfa553617730e5f27d141a0446",
+              "name": "Icons/Decoration/Payment Methods/GIft-Card-24"
+            },
+            "A524B220-7DAA-414B-9070-DAF2ECEE7571": {
+              "hash": "e9ad963b26ada2cd4996ea31c335ac36c97fd81c",
+              "name": "Icons/Tools/Select Row-Fill"
+            },
+            "A5C16205-113F-4AF8-AE6B-4167EA17B9E6": {
+              "hash": "1553abbffa072dd5b0d62315352ea5e5e9f3a4f0",
+              "name": "Icons/Indicators/Feedback/Error/Error-Outline-24"
+            },
+            "AB0B8639-3C25-421E-AE3C-C22334A2A52C": {
+              "hash": "8712983a17b814dbeac4ab5e4c783653373f86d8",
+              "name": "Icons/Indicators/Feedback/Info/Info-Filled-24"
+            },
+            "AD0CC59D-6AAC-4AEC-A048-B865D4EE0A7F": {
+              "hash": "eaa82a64c8052c08162fb165a16c06949a00174e",
+              "name": "Icons/Actions/Feedback-24"
+            },
+            "AF30A835-3879-414A-895B-940E0C2C8916": {
+              "hash": "d525b778c3d5ddaf14c9f824ddd7337dfc6aac23",
+              "name": "Icons/Actions/Meatball-Sub-24"
+            },
+            "AFDBEBA0-B439-4F49-8C5C-2A3F783C79A3": {
+              "hash": "1d86400ab22bf6d52353207e0fa6937c7c9c4ac2",
+              "name": "Icons/Social/Fill/YouTube-16"
+            },
+            "B04DAA5F-EE3C-4249-AF94-40FCF495C700": {
+              "hash": "d72c6334a4b231b517657aff46fa1ff38ec854de",
+              "name": "Icons/Actions/Delete-16"
+            },
+            "B0DC7B37-BB2A-4418-B221-38DE030EE50A": {
+              "hash": "4b6a38440b2e95cb4af1a99263f0b0eeffb333d2",
+              "name": "Icons/Decoration/Payment Methods/Brands/Mastercard-24-Color"
+            },
+            "B2D52EEF-D7BF-4133-8500-D5897A9D9176": {
+              "hash": "9e33346cd889a2bf66457da4fc15f94e131ad1d0",
+              "name": "Icons/Decoration/Mobile-Ticket-24"
+            },
+            "B4CE14BB-4DFA-4849-9CA3-A891944BA7C6": {
+              "hash": "01c74d91ca9f09a1b6b66cc13fabe45f2a55945f",
+              "name": "Icons/Decoration/Parking-24"
+            },
+            "B699A37F-7DF6-4344-ACED-63449465AB7D": {
+              "hash": "511e4e92e9fe1202182c96fece6b3fdf71c08070",
+              "name": "Icons/Indicators/Bookmark-16"
+            },
+            "BA63005E-19F9-44EA-A814-98745CC0DEDD": {
+              "hash": "2402586a0d7c1b18acdab6128950c56b5ec73b09",
+              "name": "Icons/Actions/Clear-24"
+            },
+            "BA961384-32F6-463F-A48B-892AACDA3B52": {
+              "hash": "182018acf13eebdbb548c790a89cbd448a3d12d1",
+              "name": "Containers/Card Outlined"
+            },
+            "BBF09BB9-967D-462A-8F1E-36D29CE5C59D": {
+              "hash": "aa8003d1e7b8dce8897114a5a87586d8b772d230",
+              "name": "Icons/Actions/Search-24"
+            },
+            "BCD6F9F7-8B52-48FF-9114-BE0EA6CF2879": {
+              "hash": "a6f705a9f686d63b87fab12caecef88ac4b3e134",
+              "name": "Icons/Indicators/InfoDot-Outline-16"
+            },
+            "BCE06BB1-D7F1-470B-BD30-53724099F87D": {
+              "hash": "4b0e4bbb1eaf6d37b756b669eacfb15c80167824",
+              "name": "Icons/Actions/Reset ISM View"
+            },
+            "BD171107-37C5-4E21-B2F5-FE68CEFE5C17": {
+              "hash": "4294f9ba2a2595480162858ca001bf6f9465e2c1",
+              "name": "Icons/Indicators/Volume-01-24"
+            },
+            "BD6B63C6-EC72-40E8-A855-EE7C262E377C": {
+              "hash": "25ffc84d09668d353638578933fd2012429f4989",
+              "name": "Icons/Indicators/Feedback/Error/Error-Filled-16"
+            },
+            "BE8681BF-5405-47C9-BB7B-6C2BA570FE60": {
+              "hash": "b00947117ba90149a3a94997f98bf4a460ed579e",
+              "name": "Icons/Indicators/Cart-Thin-24"
+            },
+            "C119B4D3-8A9D-40FF-870D-8D0547E41064": {
+              "hash": "5e8770b8bac5de9ca97936b3e40f22cb68e9d9fa",
+              "name": "Icons/Decoration/Tickets-24"
+            },
+            "C2D5F232-FFF6-4D12-87C1-115100C7379C": {
+              "hash": "d0eee9e642eeb8991810beddee412f3f6dad7bd5",
+              "name": "Icons/Actions/Kabob-24"
+            },
+            "C5D2C01D-1B7D-476B-ACFF-4E779239DECE": {
+              "hash": "2670ee89cb9f335b24f428ee58b1dc93bd3c2d2c",
+              "name": "Icons/Actions/Meatball-Sub-16"
+            },
+            "C68EF927-535F-4F7B-B358-5EAC7DCC9242": {
+              "hash": "c5011a7f069ef3e658201c2c7352fd55e07e598c",
+              "name": "Icons/Decoration/Notes-16"
+            },
+            "C6E4C487-B31D-4F1B-9BA8-B1AF454995C4": {
+              "hash": "5aa488bd684a7536998542c43f70c260687bbdf3",
+              "name": "Icons/Indicators/Feedback/Caution/Caution-Filled-36"
+            },
+            "C9E1F12F-BDF5-42F4-A849-EB07AC3DBB62": {
+              "hash": "af7035b421b36b59fc12bbefc529c68396167df4",
+              "name": "Icons/Decoration/ADA-24"
+            },
+            "CAD8C659-DEDE-44F6-9F95-AC56878D57EF": {
+              "hash": "c26da9d964bf7593c595734e92e59d64b8042f71",
+              "name": "Icons/Indicators/Notifications-24"
+            },
+            "CBEE5B0A-0E42-46E7-9F27-791D848AFA15": {
+              "hash": "ff4658450df9551c0cb699a0a8d6e0a4351fd43c",
+              "name": "Icons/Indicators/Broadcast-Activated-16"
+            },
+            "CD79B55B-27B1-4045-9E4B-6AD546139528": {
+              "hash": "6a95380068d4349170ef6f49d34d93d800e4bb41",
+              "name": "Icons/Decoration/Calendar-24"
+            },
+            "CE39A17B-A106-46BD-80B9-5D05A94B77AD": {
+              "hash": "fbe11c1537528aae0a838141131b8512a42f0b12",
+              "name": "Icons/Tools/Select Section-Outline"
+            },
+            "CF171E3E-E02E-47C1-89EE-C660E8620639": {
+              "hash": "84f9cb52c9b1870dfa1ff104d1169c907adf8661",
+              "name": "Icons/Indicators/Feedback/Error/Error-Outline-16"
+            },
+            "D063C86D-A4D4-4436-B135-3B6CA20F9FC5": {
+              "hash": "72960ef53293f5a105f495dba503bc1031dc0719",
+              "name": "Icons/Indicators/Feedback/Caution/Caution-Outline-16"
+            },
+            "D1DAE7C3-C3BA-4AFF-BE7F-1BEBCEA60DC1": {
+              "hash": "0944c5c18c2460f9f363fccd42714977412d7747",
+              "name": "Icons/Indicators/Feedback/Success/Success-Outline-24"
+            },
+            "D2543236-3FDE-4701-A83F-943968932EA1": {
+              "hash": "4aa2b48d36105d5555d0f8ec8ba9853c2e25dfc2",
+              "name": "Icons/Decoration/Calendar-16"
+            },
+            "D2CB3E37-ED40-4F2E-A4B0-8EDE911F3AC5": {
+              "hash": "37ec72290315ee90e1ac67ee2a789b221667aeba",
+              "name": "Icons/Decoration/Payment Methods/Brands/Visa-24-Color"
+            },
+            "D36A38F3-149A-43C1-B345-0A854FAB6FF0": {
+              "hash": "437edfc51fe7ae9ddd5958c38d8194c7fa6fa758",
+              "name": "Icons/Decoration/Payment Methods/Credit-Card-44"
+            },
+            "D381BCD1-BF86-41D2-BFB6-38111FAE00EF": {
+              "hash": "726fae86fe0dd5896fa31572f26690f3b9b32b53",
+              "name": "Icons/Decoration/Payment Methods/Brands/Discover-24"
+            },
+            "D3A41877-C5B3-47FB-828B-79F0E3164214": {
+              "hash": "dd4a83e4fd62ddf5f085a3f978d44920ca66dc73",
+              "name": "Icons/Decoration/Payment Methods/Brands/Mastercard-24"
+            },
+            "D44AF971-1DB4-4943-B84C-E417656B4780": {
+              "hash": "6e20dbd8ae6d50f03036b916f03f107c244a99e0",
+              "name": "Icons/Indicators/Feedback/Success/Success-Filled-16"
+            },
+            "D46F1CB7-050D-4B94-931B-E73CAB55D15D": {
+              "hash": "be27bdb1f9a2ae7557afc5421199ebbb2fe67967",
+              "name": "Icons/Decoration/Payment Methods/Brands/Diners Club-24"
+            },
+            "DA0984FB-D56D-423D-9D25-86F371638DB9": {
+              "hash": "8c89e54a5b4c2f028cb82414e7e5ca80c10f4316",
+              "name": "Icons/Social/Fill/Instagram-24"
+            },
+            "DAA57D32-0FE7-427E-AF91-DAE13CA14ADD": {
+              "hash": "7013badc29782d0eade11081767cff61988920cb",
+              "name": "Icons/Social/Fill/YouTube-24"
+            },
+            "DE0DF63A-3D1A-4EED-8BC3-3930D29FB78E": {
+              "hash": "c520ca52c1bd8aa7a971086c09d9976282129172",
+              "name": "Icons/Actions/Clear-16"
+            },
+            "DF1E7394-0D20-40B4-98F4-6DCA4BDC4BB4": {
+              "hash": "ee0448a4a6bc64408fef12b437d678e27d85ec55",
+              "name": "Icons/Decoration/FoodBev-24"
+            },
+            "E022D923-6C1B-4EEE-94CF-2A6E4CBF4EF7": {
+              "hash": "097303aec618847f6b176cb426663f67ac9bd8dc",
+              "name": "Icons/Actions/Print-16"
+            },
+            "E64938B5-A301-419B-8E95-B8797847D083": {
+              "hash": "6564d2fa1f3e49201777c10a667dd11075e92ab2",
+              "name": "Icons/Indicators/Feedback/Caution/Caution-Outline-36"
+            },
+            "E839B88D-2B61-4D28-813E-38771B7A9E0A": {
+              "hash": "61967829c0a1eb31c215a2ba2b8affdc63093e98",
+              "name": "Icons/Actions/Edit-24"
+            },
+            "E9194BF9-B942-4ACA-B470-8E648F011760": {
+              "hash": "87a8847c7ad422005246768f3a16e98c40887af4",
+              "name": "Icons/Actions/Settings-24"
+            },
+            "EA6BA80D-86ED-49A9-898A-33F5276F959A": {
+              "hash": "3058591c47dfc097750281940b5eae2a38e2c9fe",
+              "name": "Icons/Indicators/Feedback/Info/Info-Outline-24"
+            },
+            "EB1B5B0C-0487-42BE-893B-70DDF5F4E86A": {
+              "hash": "9e54152c5bcd98328e900a640af250e9c2729490",
+              "name": "Icons/Indicators/Feedback/Error/Error-Filled-24"
+            },
+            "EBDFBAD2-272F-4F8B-8669-54161D189748": {
+              "hash": "216fe5189e173c78da409165b4b89c69bebf77f5",
+              "name": "Icons/Actions/Carets/Back-24"
+            },
+            "EC98ED12-7602-4ACD-B193-26112BC14FB4": {
+              "hash": "20192eed2417ddc43d70eb1d1ce4c8e27d86333e",
+              "name": "Icons/Actions/Drawer-24"
+            },
+            "EFCE2432-B600-4DF3-9055-43357BEA80C6": {
+              "hash": "85362cd511b8a6d30887a72817450384eefd3efe",
+              "name": "Icons/Decoration/Payment Methods/Brands/Visa-24"
+            },
+            "F196E4DB-C5F9-4490-BE6D-0D4B22E56633": {
+              "hash": "35cee0a8767c14a2678b77a7ce27d092c7d384a2",
+              "name": "Icons/Decoration/Payment Methods/Checking-Account-24"
+            },
+            "F3063000-1315-4CB5-9292-FA0B068F0653": {
+              "hash": "dca5d49c89deba45025502793a4c5bca1371105d",
+              "name": "Icons/Indicators/Feedback/Info/Info-Filled-16"
+            },
+            "F61AA6F7-E46C-478B-A240-DD07BAE76BEA": {
+              "hash": "1515af291c8495781fe5629ba28979235cfc3644",
+              "name": "Icons/Actions/User-24"
+            },
+            "F641781B-6E98-4AC3-ACB3-8BD1BC8B5954": {
+              "hash": "90d433b47cb533ed54468aae59871d958a7bfd1b",
+              "name": "Icons/Decoration/Payment Methods/Credit-Card-24"
+            },
+            "F92ABB96-E176-42E4-926B-5CC21A9A479D": {
+              "hash": "a486fc3478504c2a22b973dd87786d9717e1839f",
+              "name": "Icons/Actions/Print-24"
+            },
+            "FE831DF4-6923-4212-AE83-612181F8F960": {
+              "hash": "6a33816fb4457d1d3f2aa64654a4810bea0bfee5",
+              "name": "Icons/Indicators/Feedback/Info/Info-Outline-36"
+            },
+            "FF13C264-43E9-4142-B671-35A329A7E04D": {
+              "hash": "8c1d365606a739ddf53fe5613c7d8e6b872bfcaa",
+              "name": "Icons/Indicators/Volume-02-24"
+            }
+          },
+          "textStyles": {
+          }
+        },
+        "skipped": [
+        ],
+        "sync": {
+          "colors": {
+          },
+          "layerStyles": {
+            "247E6583-1C52-4166-9638-03AD488022C9": "233CC6E9-E147-44F6-893F-A388B41795DD",
+            "327C86D1-D41D-462F-8413-C37268265B4C": "54436047-9613-44C3-B207-72779CF8AA1A",
+            "3D71CE76-D757-4C67-BD80-2105430BD980": "84D06E57-C217-4916-9398-718E4E4F8957",
+            "449423FD-5921-4E5F-924F-E926C94F3625": "F7BD146D-9C25-4226-80A2-C36512547267",
+            "83BEA529-5734-4F8B-8EA6-50359A06D7F7": "38444678-3EBB-456E-A0FC-66526DD3A23A",
+            "B0EEBE33-B38D-4A9E-9B6B-D1628BDE1F57": "2DEFA7E6-345D-4B5C-AF65-A9B4A11282FA",
+            "B3CDABC5-D7A0-4708-9749-17833A652E70": "E6F2E233-037F-46F9-A354-F1B52247CA5F",
+            "C13D616F-A2A9-4B5E-A82C-376A2F540085": "28F2DE0B-62C2-4E31-A248-3E2640DD4079",
+            "CF987735-97B3-4867-9830-78280BA12665": "451F3558-88F3-418F-868A-02C63382F694",
+            "D0CE7FA9-B085-4269-AD99-6BDFB0539995": "27EF5AB2-5841-44A4-B9A2-D79B7C5C9213",
+            "D406D243-98CD-4A6D-B335-A07C13F79CE0": "905AF934-4C0B-4A31-93DD-6640EACADF15",
+            "D5A692B1-69D7-49EE-8FE7-5EF3D368DF91": "E4473BF7-6E6D-44C7-8D3B-68FE0860341D",
+            "E28864E7-31AB-4739-B46E-85D9FB0E7477": "B0A5E962-44BC-4F73-B6DC-76CEB1E36D1A",
+            "EFC32CCA-F4D9-491B-B017-13EE9655ACAF": "CD807D11-58D5-4A87-82F3-FCF90236D4AB"
+          },
+          "layers": {
+          },
+          "symbols": {
+          },
+          "textStyles": {
+          }
+        }
+      },
+      "version": 132
+    },
+    "com.plant.plantplugin": {
+      "plant_doc_id": "70425C1D-782B-40C6-A901-0F01A99A29B9"
+    }
+  }
+}

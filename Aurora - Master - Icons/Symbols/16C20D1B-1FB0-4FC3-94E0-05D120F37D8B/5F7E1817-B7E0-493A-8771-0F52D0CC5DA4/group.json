@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F7E1817-B7E0-493A-8771-0F52D0CC5DA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3280F5DD-159E-49F8-BD35-004993826855",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "377CA5A3-9FB0-4E1F-A145-D584E10701A0",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "368DA365-A26B-43B2-A844-168700893114"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C852ED12-444B-46C4-80F3-5BE612CE860C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73374942-6BDD-42ED-A7B6-CBD66B315329"
+    }
+  ],
+  "name": "Actions/Email-16",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "470664DA-CE8C-4F4C-A0D9-0D2E2FB9F49A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

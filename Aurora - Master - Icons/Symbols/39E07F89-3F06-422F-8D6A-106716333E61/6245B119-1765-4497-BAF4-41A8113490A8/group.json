@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6245B119-1765-4497-BAF4-41A8113490A8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D84BE7AD-6154-4CF1-9002-251E59FB4422",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA64A8FE-B9CD-413B-A924-A2D2F28C2D64",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "48BE1A87-F736-4B45-9A9C-178F11F63C11"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C4A065E5-4B54-4FD8-B030-B9438A282EDB"
+    },
+    {
+      "class": "rectangle",
+      "id": "97B641F0-F2CB-422E-B74C-88D146B69FBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9E6F3E26-47D4-4D8B-B030-97E8FA64063D"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Brands/Diners Club-24-Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9BDEAD17-E86B-4439-9DA7-0010C4B2E38A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

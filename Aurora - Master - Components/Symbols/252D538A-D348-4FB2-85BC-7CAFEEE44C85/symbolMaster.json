@@ -1,0 +1,150 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5E66A99E-51BB-41E5-86D1-96FA7E7F28B7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2330,
+  "clippingMaskMode": 0,
+  "do_objectID": "252D538A-D348-4FB2-85BC-7CAFEEE44C85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3FB37C9D-1F24-41F8-8FF6-61E25A2A2695",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B09BB8E-8C42-4F81-A201-9AF04AD54E85",
+    "height": 70,
+    "width": 150,
+    "x": 6796,
+    "y": 338
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DD44F106-1733-475B-A616-BD84474CF8E1"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A099818F-19F9-4425-9094-C194F79456E0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "872CADFA-AEB9-4C8E-AF8A-BDB437569AC2"
+    },
+    {
+      "class": "group",
+      "id": "CABD186B-A25C-4851-8946-54D5738BA5A4"
+    },
+    {
+      "class": "group",
+      "id": "5B5D38C3-19B5-4288-A661-7CBD6E2724D7"
+    }
+  ],
+  "name": "Text Fields/Top Label/36-Disabled",
+  "nameIsFixed": true,
+  "originalObjectID": "A63BD919-D5F4-41F2-9F39-14437A54AF12",
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "CED904B4-7796-4926-9341-1DCF669C9F59_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "CED904B4-7796-4926-9341-1DCF669C9F59_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85CBE82B-7EEB-4C36-BA51-984643C0642F_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A80B5777-1C42-44AB-8C0B-0CE903E47C43_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A80B5777-1C42-44AB-8C0B-0CE903E47C43_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7C94BD38-E637-4AA5-B617-F838CB3077EC_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "7C94BD38-E637-4AA5-B617-F838CB3077EC_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4D45E18C-FD94-4F7B-9921-54D79933BB13_layerStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85CBE82B-7EEB-4C36-BA51-984643C0642F_textStyle"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5AE720EC-BD15-4176-BB85-0B77CAB3ACA2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F2166FA2-5213-41C7-8873-3BED1210EA96",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "59DDA6AA-3A92-471B-9AB3-4F70E15CE28C",
+    "guides": [
+    ]
+  }
+}

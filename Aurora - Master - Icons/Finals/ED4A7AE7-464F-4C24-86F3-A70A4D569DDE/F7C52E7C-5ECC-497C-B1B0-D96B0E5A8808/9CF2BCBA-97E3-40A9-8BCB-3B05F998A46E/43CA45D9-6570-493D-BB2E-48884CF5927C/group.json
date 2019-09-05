@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43CA45D9-6570-493D-BB2E-48884CF5927C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C6E595A-1470-43B7-BA4A-57A2E9BB1F6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10FE4513-9835-4D9A-B6BE-7C1BFDACB9F1",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2579CFBB-D94F-4087-A3B4-0BA7D87A67BE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "29172077-3623-407B-8697-8360B1A3E11C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2167E748-E946-4BC2-9409-A70450CBEB68"
+    }
+  ],
+  "name": "Icons/Feedback/Fraudulent-Activity-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9AC3ED55-C072-4AEF-90D1-80B5D7D823F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A028980-3E1B-44C0-ABEF-92021DB69508",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EE2E588-9633-4F3D-A2E5-AD2CA1814B64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "A2AD77A2-0A9A-4BBF-B780-512B8D387A75",
+    "height": 24,
+    "width": 24,
+    "x": 41,
+    "y": 808
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FE3425ED-9649-4044-9181-EE1C7C62BFD1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "319C0C16-B40C-4524-A568-0E80F1E71383"
+    },
+    {
+      "class": "shapePath",
+      "id": "6B678F11-18A9-456D-9919-DB8DF04219E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "93F59883-5A5F-4CB7-A7B3-7E8BC3A1E9DE"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA47629B-83B9-4DAC-BDCB-1972F3BF3043"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8F735DD-8DAB-4734-A765-D3B158E99152"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED9BCBBB-AD3E-4DC6-8078-D8DA04D7DF00"
+    },
+    {
+      "class": "shapePath",
+      "id": "58E1451F-AB8F-417E-B879-5131DFA8BB34"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F65B8D7-CEB3-4389-BB40-2A6A17E50D99"
+    }
+  ],
+  "name": "icon-PDF",
+  "nameIsFixed": true,
+  "originalObjectID": "713A468B-EB3A-4E46-9782-2E314716F39A",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30396E43-A965-48F8-B1AD-33E036276008",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

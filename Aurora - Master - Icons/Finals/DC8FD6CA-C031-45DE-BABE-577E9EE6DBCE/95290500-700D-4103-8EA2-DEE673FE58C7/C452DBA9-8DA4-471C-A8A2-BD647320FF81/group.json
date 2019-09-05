@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C452DBA9-8DA4-471C-A8A2-BD647320FF81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6EA19054-5822-465E-9ABB-CFB61C8CC035",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "749353C9-6122-47A6-8421-F1040614B124",
+    "height": 16,
+    "width": 16,
+    "x": 241,
+    "y": 20
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "492F62A1-B479-4AE5-9695-478753448F6F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EBDD0513-5BD2-4D1D-89D1-ED5168769889"
+    },
+    {
+      "class": "shapePath",
+      "id": "F3786057-8815-4910-A52E-D7DA02ED8E3A"
+    }
+  ],
+  "name": "Icons/Actions/Bookmark-16",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B97EDA5B-ABD6-407A-864D-C934E79362A3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

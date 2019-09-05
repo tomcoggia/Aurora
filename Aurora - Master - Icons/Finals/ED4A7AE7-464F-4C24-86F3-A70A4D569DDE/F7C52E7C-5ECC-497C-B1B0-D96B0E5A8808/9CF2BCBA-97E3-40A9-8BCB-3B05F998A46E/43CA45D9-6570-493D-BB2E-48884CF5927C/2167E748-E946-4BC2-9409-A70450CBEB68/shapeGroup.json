@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2167E748-E946-4BC2-9409-A70450CBEB68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57662092-D2F2-4C37-954C-5F87C068508A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9FBF254B-3501-47EC-9E9B-F505F2F52E50",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DE33857C-2045-44E5-A420-F2E553693110"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5635A5ED-3439-4B48-9626-5CA903B9CB5A"
+    },
+    {
+      "class": "shapePath",
+      "id": "EBF44E63-7F63-4B4D-AA32-AE923B6E7FD7"
+    },
+    {
+      "class": "shapePath",
+      "id": "1EB409C8-631B-48B8-A729-E3C8C2C14967"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADA6FDB9-17AF-4BAC-B981-8C08FC36F033"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21434452-715D-47A8-A843-BE0ED9498181"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65172844-3E83-4C9F-9350-C0FA8DAB0941"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F238985-B5DD-4E1D-86D4-8574D975724C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E651A75-4319-4A40-81A3-5021BFD590D2"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "E4473BF7-6E6D-44C7-8D3B-68FE0860341D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77E65EED-189F-4B48-AD3A-E2138A0C2116",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.65,
+          "blue": 0.1490196078431373,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

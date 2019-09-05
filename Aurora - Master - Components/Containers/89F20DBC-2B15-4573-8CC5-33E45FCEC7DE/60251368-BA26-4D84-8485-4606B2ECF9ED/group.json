@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "60251368-BA26-4D84-8485-4606B2ECF9ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C15C37D3-084D-49B5-9DB4-52B6F54D5D6B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75512FA2-1562-42E1-AFBA-2D2D39EF8AC8",
+    "height": 26,
+    "width": 84,
+    "x": 1019,
+    "y": 255
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "24175927-7D06-4B28-9842-E7120DF5C912"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BB151DE5-1F24-4D4B-AA93-CB3A1EB22195"
+    },
+    {
+      "class": "text",
+      "id": "92542D7D-B0A7-4DBE-90B6-CB1679700241"
+    }
+  ],
+  "name": "Page-Elements/Containers/Tooltip Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A59C3C6-C7CC-4969-B21D-1FC97F927886",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "47A68C3B-3848-4BB2-AF9A-893A4FDEBF8D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85DE8716-56FF-4590-B7D6-4BF0372D0EB7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0C280D1-51D0-43AE-AAE8-B74E1030B395",
+    "height": 24,
+    "width": 24,
+    "x": 39,
+    "y": 424
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EB410BE4-6671-4140-942E-2157E34792EA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FEB32EDF-3D15-4526-B8BE-80EE0712A38B"
+    },
+    {
+      "class": "shapePath",
+      "id": "60EF9D0A-FFC3-4F75-A2A9-02BCD598B332"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C93CDFE-77BE-45C4-96B6-9D8D21804731"
+    },
+    {
+      "class": "shapePath",
+      "id": "E629212F-9669-4873-861A-15876D37FE7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACC34924-56BE-4F80-9D9C-7D3F4FFE7459"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A4D5C0A-D823-4E16-90FF-8B483C6913C2"
+    },
+    {
+      "class": "shapePath",
+      "id": "4AA2DB7B-0B55-45F9-9E5D-A478371F49F4"
+    },
+    {
+      "class": "shapePath",
+      "id": "B4C1D134-FFAA-4859-9977-7CF02218CD7D"
+    },
+    {
+      "class": "shapePath",
+      "id": "760EE2D2-9295-4C48-903E-C2C1975ECBF5"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "14182526-A507-4CFD-A95D-6F23DDDC82F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

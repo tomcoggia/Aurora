@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47364C77-2B76-427F-B905-BC6CB9C0EDA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB263A15-F9E9-46F3-91AE-454356653BD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31722148-AD86-4BA1-BEEE-B36CAAC4A669",
+    "height": 200,
+    "width": 300,
+    "x": 33,
+    "y": 625
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "States/Containers/Popover",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1611617-3D20-4955-BBFA-187C7130FB8D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "70922D25-9EB6-41F2-8FFA-56FD627E0940",
+  "verticalSpacing": 0
+}

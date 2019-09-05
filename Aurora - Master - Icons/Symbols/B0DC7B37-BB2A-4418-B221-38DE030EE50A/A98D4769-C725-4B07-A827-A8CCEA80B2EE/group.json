@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A98D4769-C725-4B07-A827-A8CCEA80B2EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4AE1514B-FFA1-48E5-B855-F180A36CE1E4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7F9564CF-37CC-4D22-A2FA-CAC50896F7B8",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5F7C00BD-2E63-4FEE-96DC-CBB1AE5CB187"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C1E0E788-9745-4B02-8DDE-EB3779682E29"
+    },
+    {
+      "class": "rectangle",
+      "id": "C1BD8A42-C8E6-475E-BCFF-DBEB4340A392"
+    },
+    {
+      "class": "group",
+      "id": "5F9B0959-CDC5-4804-AAA9-8A1F2E12DD01"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Brands/Mastercard-24-Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BEB777D8-74ED-45B0-AF21-0B9C754170EE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

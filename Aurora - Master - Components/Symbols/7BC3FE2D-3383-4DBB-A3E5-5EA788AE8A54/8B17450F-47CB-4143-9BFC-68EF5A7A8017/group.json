@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8B17450F-47CB-4143-9BFC-68EF5A7A8017",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 800,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C018150C-C54B-4B48-A85A-0C7B153991C4"
+    },
+    {
+      "class": "rectangle",
+      "id": "4A8E50CA-3847-4159-AE0E-E90E51D7C083"
+    },
+    {
+      "class": "rectangle",
+      "id": "6628A4CA-AABA-47E0-A67A-DD91C87F7E92"
+    },
+    {
+      "class": "rectangle",
+      "id": "4336707F-31E1-4B3A-8A20-D20DAC77B8C9"
+    },
+    {
+      "class": "rectangle",
+      "id": "91C7A1AB-42DF-4353-BA86-8663A727F955"
+    },
+    {
+      "class": "rectangle",
+      "id": "801B7209-FB14-44AB-B871-98D2CDEE46F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "C1502B26-7980-4F3C-913C-A7A51FDBFBAA"
+    },
+    {
+      "class": "rectangle",
+      "id": "ABE3CA8E-6D02-4A0B-8B42-C39BE5EBA985"
+    },
+    {
+      "class": "rectangle",
+      "id": "5AEE485B-F964-4E3C-A9DB-8F7055249F62"
+    },
+    {
+      "class": "rectangle",
+      "id": "BB9481C2-E2BD-4FE6-8283-967B4BFE5994"
+    },
+    {
+      "class": "rectangle",
+      "id": "20272A4C-A49C-421F-9B8F-EA0A141AFA64"
+    },
+    {
+      "class": "rectangle",
+      "id": "6019007A-C3B1-4223-B6A8-4179D76918F4"
+    },
+    {
+      "class": "rectangle",
+      "id": "B0D8B23E-4241-4AF6-A975-9893FA220338"
+    }
+  ],
+  "name": "Grid/Desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

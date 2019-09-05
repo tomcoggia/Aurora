@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "314C1894-2BBA-4F78-9BE0-CD9025F30F94",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2D6EC52-5A22-4486-ADAA-2E4BF868ED37",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "93222020-29AF-481B-A05F-143CEE03D53A",
+    "height": 16,
+    "width": 13.99999999999999,
+    "x": 1,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5F0ED44C-04F3-4A27-8123-9F1C1B127FBE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3CCADB74-9A51-4E1B-85FF-7A34D7C9243F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F6CBCFA5-1BE9-4350-8562-FFC200C978C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "74B095B4-2D7C-4052-BCE6-27193C3B6832"
+    },
+    {
+      "class": "shapePath",
+      "id": "6F8EE414-E7AD-496A-8073-15CDE9883846"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F212636-A5C9-417E-ADE3-0BAE9C921D7B"
+    },
+    {
+      "class": "shapePath",
+      "id": "6233E113-BE5A-4122-8C0B-54368D24DFB1"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5BF83E3-C1E2-44C3-9FC8-D09BF0A22E81"
+    },
+    {
+      "class": "shapePath",
+      "id": "D634DF63-670E-4E46-8B06-B97E77E0BB20"
+    }
+  ],
+  "name": "delete",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "E4473BF7-6E6D-44C7-8D3B-68FE0860341D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F6830510-D751-4D55-AD45-51A6A730DE0F",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.65,
+          "blue": 0.1490196078431373,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

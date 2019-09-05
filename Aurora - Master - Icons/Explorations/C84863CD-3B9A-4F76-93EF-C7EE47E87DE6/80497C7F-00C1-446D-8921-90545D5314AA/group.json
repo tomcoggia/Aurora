@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "80497C7F-00C1-446D-8921-90545D5314AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FE13C48-58C0-4F31-9FDE-9737BD0FC17C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49043D10-9F5C-49DD-89DE-48EEFD35420E",
+    "height": 24,
+    "width": 24,
+    "x": 296,
+    "y": 488
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C841842B-9E6B-4958-BD46-C90DBA2B9302"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C96FE14C-F767-4D98-BB2B-0A89E52DA349"
+    },
+    {
+      "class": "shapePath",
+      "id": "2817B430-77C3-4409-B7CD-1D85EF13B2CD"
+    },
+    {
+      "class": "shapePath",
+      "id": "A8C9D693-5A67-4615-9F22-1EDA11E5DD93"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE3837F5-B308-4BF7-8194-8FB545878CA0"
+    },
+    {
+      "class": "shapePath",
+      "id": "702E2DF0-5358-44B2-A61C-0606C44B4112"
+    },
+    {
+      "class": "shapePath",
+      "id": "E47C4615-75C7-4581-A598-071078464B2C"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA8F4AA8-879C-470B-B4B9-BAE2FC18E5D0"
+    },
+    {
+      "class": "shapePath",
+      "id": "27ED93E1-3871-49F0-A24B-D62CFA45F001"
+    },
+    {
+      "class": "shapePath",
+      "id": "2EABE0DF-806D-4B24-8BFA-6CAE78841681"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B53522E-66B6-4B9E-B014-725138D26FC4"
+    },
+    {
+      "class": "shapePath",
+      "id": "564AA662-A59E-45BF-A41B-81E8446B522C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D00ACC0-66D8-428E-8438-C4973FFF1C08"
+    },
+    {
+      "class": "shapePath",
+      "id": "14C28322-ACF9-4FB8-9C5C-98053E7020F9"
+    },
+    {
+      "class": "shapePath",
+      "id": "46D88FE5-9371-49A7-8BB4-D10A0F4FF3C8"
+    }
+  ],
+  "name": "Fraudulent Activity",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.9000000357627869
+    },
+    "do_objectID": "977EE88D-0452-4FE5-ADF9-9DE1D19BC366",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

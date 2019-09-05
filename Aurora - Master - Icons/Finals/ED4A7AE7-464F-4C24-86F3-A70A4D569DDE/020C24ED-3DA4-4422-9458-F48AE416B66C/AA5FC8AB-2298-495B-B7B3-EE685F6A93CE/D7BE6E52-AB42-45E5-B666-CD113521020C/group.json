@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D7BE6E52-AB42-45E5-B666-CD113521020C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A4F7E977-35DE-43CF-89B6-BE78CA8D6F72",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBDF01B0-DACE-4C7A-8200-EDA56C18A73D",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "916085F5-5744-4417-8F12-1DCED4BD91E7"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BF823D77-0B55-4360-B7C9-3B973E813A21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "779905B2-6BA4-45EA-9FCC-D12B95C08DF0"
+    }
+  ],
+  "name": "Icons/Places/Will-Call-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B075980-416A-47AE-93DC-EC88630F37F1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6735445A-AEC6-406E-B330-56F1C2B28471",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1DFFD48-0014-4431-9411-EF460A00B27D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B5D18D8A-4975-48F7-9E25-222005B917BB",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8D8B32B0-58EC-4D78-A161-75D90A1DAD6C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0E7BFFBC-7193-4C18-BDB9-A831F542CB18"
+    },
+    {
+      "class": "shapePath",
+      "id": "1DD769B5-F260-4E25-8C56-0BD0485213DB"
+    },
+    {
+      "class": "shapePath",
+      "id": "D79FAB87-2016-47F9-A422-F0F850959A48"
+    },
+    {
+      "class": "shapePath",
+      "id": "E73005AC-475C-47CD-80B6-6E8BB0C8BD45"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF7CBD37-95F2-41AC-A5AF-46FCEFA20C83"
+    },
+    {
+      "class": "shapePath",
+      "id": "057D1AA7-427A-405D-BA14-A1E0F4FD3D48"
+    },
+    {
+      "class": "shapePath",
+      "id": "138EDAAA-57C8-402A-9373-CD757BBEDED2"
+    },
+    {
+      "class": "shapePath",
+      "id": "CB793DB9-05B5-45B6-AE4C-D6DF5023BB3E"
+    },
+    {
+      "class": "shapePath",
+      "id": "E5DB133E-D4B1-4F34-B592-4CAD4301E25D"
+    }
+  ],
+  "name": "Icons/Objects/FoodBev-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B0B9BCDC-2B60-4C1D-869E-37A2681FFF7A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

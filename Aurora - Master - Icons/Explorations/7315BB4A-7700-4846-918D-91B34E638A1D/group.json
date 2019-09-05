@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7315BB4A-7700-4846-918D-91B34E638A1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89D9F5D5-818F-42D2-9FBE-761159BCC4BA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "22F5B83A-33DD-4C58-B5EA-0BBD24FCB112",
+    "height": 24,
+    "width": 24,
+    "x": -598,
+    "y": 495
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "89C5DD89-52E0-4C5E-B9B8-9D042FDA942D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6B8FFD4B-A86D-4307-8B60-33396659E999"
+    },
+    {
+      "class": "rectangle",
+      "id": "BBADD21F-EAF3-47B1-A862-630F128D72FB"
+    },
+    {
+      "class": "rectangle",
+      "id": "C74781C1-41A5-491D-894B-9D859DDE4224"
+    },
+    {
+      "class": "rectangle",
+      "id": "11A4B0B3-3592-4237-9F64-FFF581C57933"
+    },
+    {
+      "class": "rectangle",
+      "id": "9DCE1799-EF4F-4FAE-A82E-57D84E87F2FC"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15EF0E2D-0749-4A04-AC0E-2AA2C91A28F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

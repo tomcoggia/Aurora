@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D3115125-E589-4ADC-ABC3-601D2B334979",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FED1E674-8541-4B40-80FD-BC730A0E0280",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C85F842C-5218-445C-B6B5-FA3228EE3285",
+    "height": 17,
+    "width": 21.27272727272727,
+    "x": 0.4363636363652238,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CB18B79C-5B61-463F-AE19-57EBACE0D7E1"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7A12F6BC-CC30-4B6D-849D-206E78C8EED5"
+    },
+    {
+      "class": "shapePath",
+      "id": "F82C7C8C-129E-4392-AAC0-2931827EAF4E"
+    },
+    {
+      "class": "shapePath",
+      "id": "B1B9B574-35DD-4A1F-9240-038F3B20CC9B"
+    },
+    {
+      "class": "shapePath",
+      "id": "9235524D-623A-4644-9E9B-0A59B296720F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68B5111A-1726-4D06-AE26-6F7AC586B1F3"
+    }
+  ],
+  "name": "masterpass-white",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2922C91-CEA9-4167-A894-2FCAD302A4BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

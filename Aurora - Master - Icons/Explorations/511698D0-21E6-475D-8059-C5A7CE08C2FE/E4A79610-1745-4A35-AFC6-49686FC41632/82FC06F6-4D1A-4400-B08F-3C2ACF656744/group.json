@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82FC06F6-4D1A-4400-B08F-3C2ACF656744",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3BB72049-C82B-4509-B1E7-6AF9723D411C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B925EFD-663C-4963-8C71-4BB52E18D22B",
+    "height": 15,
+    "width": 15,
+    "x": 3.5,
+    "y": 4.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "E90E4C03-A386-43D9-AE8C-D3675A9774E3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "FB640320-AE6D-4B75-BB8B-0DADB124FA7E"
+    }
+  ],
+  "name": "Stroke 6263",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8ED8FAC5-D4E7-4ABF-9873-99486E21CA42",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

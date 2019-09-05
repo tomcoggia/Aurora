@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9346D042-1D74-45E1-AE93-87A7655275FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 171,
+    "x": 62,
+    "y": 103.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Inputs/Left Label/24",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "60231B4B-F5F9-45F1-9380-48D77B15BE59",
+      "overrideName": "5D251C51-88EB-4E8E-A7D7-28B62D24AE6D_stringValue",
+      "value": "Input"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "771617B7-68D1-4C91-9B34-B205F7683827",
+      "overrideName": "49F91560-0006-4214-ACEE-5F24C802955B_stringValue",
+      "value": "          Hint"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "42DCBAA0-4A56-46F4-87EC-D8657A6AF77B",
+  "verticalSpacing": 0
+}

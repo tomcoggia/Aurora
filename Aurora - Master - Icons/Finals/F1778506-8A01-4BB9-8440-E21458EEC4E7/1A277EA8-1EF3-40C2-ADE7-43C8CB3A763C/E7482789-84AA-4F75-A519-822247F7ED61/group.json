@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7482789-84AA-4F75-A519-822247F7ED61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "959A4128-A44C-49D3-9853-7C604A810904",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "727DDFD2-EDBC-44C3-83E0-4D946D85C20E",
+    "height": 24,
+    "width": 417,
+    "x": 16,
+    "y": 59
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "BD5D8C1D-6300-4A15-B2B3-A6575FC6E8BD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D81A9F82-D587-4746-AF37-A2C9CB5056B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8FB7117-78E6-46D2-9357-01E1CC4CCFA4"
+    },
+    {
+      "class": "rectangle",
+      "id": "37F9026D-63A9-423B-81FC-05B16ED840E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "494D1323-6873-488D-B387-A7F65C33D8FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C9FEA84-8944-48AB-A44F-1239E668D782"
+    },
+    {
+      "class": "rectangle",
+      "id": "4C199F1B-89FF-41BA-BE84-3FA3DD16B098"
+    },
+    {
+      "class": "rectangle",
+      "id": "79D797CB-34C1-4486-B517-6F22447C1D43"
+    },
+    {
+      "class": "rectangle",
+      "id": "254D9240-B0FC-43B0-A761-F364F3FAC46F"
+    },
+    {
+      "class": "text",
+      "id": "DE8B501A-A79A-4934-BCF7-DBC3DCE854D0"
+    }
+  ],
+  "name": "Instagram Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "63397463-950D-4DC4-8373-72B20587566C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

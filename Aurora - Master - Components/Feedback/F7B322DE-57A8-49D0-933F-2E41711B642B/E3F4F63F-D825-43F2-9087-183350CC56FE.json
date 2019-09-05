@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3F4F63F-D825-43F2-9087-183350CC56FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD75A5A6-39E7-4CA9-A25E-A5DC36F22EE8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7B1B69AE-8BC5-4F01-A6A8-6C23F83F68B5",
+    "height": 20,
+    "width": 83,
+    "x": 35,
+    "y": 73
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Feedback/Badges/Dark",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0821774F-2791-4591-AF54-3EDA0420C12F",
+      "overrideName": "65B8F670-B6FD-416B-83B6-5D6BCC2ACF1F_layerStyle",
+      "value": "15FAEB73-E836-4568-A310-D3602C7B688E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C86C7B10-7D80-4D7E-A0B1-BA1BFB0BAC43",
+      "overrideName": "A1CD412A-C2B3-4347-8608-97FB01DFB886_stringValue",
+      "value": "Dark Badge"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D7AF51F-E50D-4B87-B602-4FCF704C8C06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4BA9FA37-EC5F-44CF-9FC0-05405FE9ECE0",
+  "verticalSpacing": 0
+}

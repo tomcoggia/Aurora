@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99576782-81EF-4EEB-BDC7-981CE39B2833",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAFF48E8-5E51-49AD-9632-7E8527B847C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B1EA3D6-C60F-4D3D-9DC7-97BF21EB0E22",
+    "height": 24,
+    "width": 417,
+    "x": 16,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "EFB78D57-25CD-4B25-ACA2-497179A1FB22"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1B316B0F-BDBB-4523-9595-FE1ED095215D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0ABFA75-0FDB-4C38-8F70-1EF4783EF020"
+    },
+    {
+      "class": "rectangle",
+      "id": "F1DFBD9A-61C7-441B-B0BD-17ACC45D6F91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE4E5734-C658-4DB8-8EA5-A2D8ACB7F5B3"
+    },
+    {
+      "class": "rectangle",
+      "id": "A39F8899-E72D-43FD-966C-7FC212DBF0B6"
+    },
+    {
+      "class": "group",
+      "id": "97DFE7A7-6A8F-4696-BD79-27E50D3077BE"
+    },
+    {
+      "class": "rectangle",
+      "id": "8FFAA72F-5E0C-4D9A-9B3A-D9F9BCD58BED"
+    },
+    {
+      "class": "group",
+      "id": "696CBAD7-8B00-4A63-9FEF-4AD842E6C0D7"
+    },
+    {
+      "class": "rectangle",
+      "id": "968C0C13-0EF8-4436-8095-4C06E97B914C"
+    },
+    {
+      "class": "group",
+      "id": "7040C75C-EA96-4341-976E-283DFA6B8EC7"
+    },
+    {
+      "class": "rectangle",
+      "id": "BE861811-1A34-4CAB-8F5F-1F0395305BF0"
+    },
+    {
+      "class": "group",
+      "id": "2CDAFBCF-86B1-465A-95AD-28D88D558BB1"
+    },
+    {
+      "class": "text",
+      "id": "9309F1FF-7342-480A-8AE0-0D2B79D1CFBE"
+    }
+  ],
+  "name": "Twitter Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AEAC445-29AA-445F-B6F2-05F470141206",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

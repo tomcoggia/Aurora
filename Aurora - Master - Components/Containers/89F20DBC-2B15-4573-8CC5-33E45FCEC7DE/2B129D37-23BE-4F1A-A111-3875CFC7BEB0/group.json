@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2B129D37-23BE-4F1A-A111-3875CFC7BEB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C4F5C60F-9681-4A76-9BDE-CD39205F202B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C9BB1849-9825-4A79-86AE-E03BF3FC0EC3",
+    "height": 28,
+    "width": 144,
+    "x": 381,
+    "y": 597
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "7163BCEA-1FDE-4C34-89F3-E7AB6C7860A6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7C9C2F0D-5A4A-47FE-BF2F-60C0A38A4422"
+    },
+    {
+      "class": "text",
+      "id": "99A61F08-25E3-44DC-B98D-B61C661972C5"
+    }
+  ],
+  "name": "Feedback/Badges/Light Copy 14",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "297EC454-D57C-4CBD-A0C1-A2A6956B0527",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

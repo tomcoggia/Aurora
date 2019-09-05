@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F4F54CA5-06F1-4E30-B9BB-7D0E819FD77D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CEA38E86-CC57-4FA5-8AE0-09D0FBEC0359",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB3BA84F-253F-494C-8317-BBC09078CC74",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8B77379D-0BE4-4340-9251-221EE6F66656"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5B4126AE-3EC3-425A-840E-0F54913E2BF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0CCD236-17B5-42BE-B419-B8EBB6DE1252"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Outline/Discover-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "44319CCA-F463-40EF-86E7-995781F5FF15",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

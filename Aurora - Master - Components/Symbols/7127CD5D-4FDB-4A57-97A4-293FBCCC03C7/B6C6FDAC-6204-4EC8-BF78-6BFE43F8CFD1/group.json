@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6C6FDAC-6204-4EC8-BF78-6BFE43F8CFD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "659C6808-8749-45E5-9D94-99B394072493",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B405E0C-049C-4483-B597-27A432C69368",
+    "height": 36,
+    "width": 150,
+    "x": 0,
+    "y": 19
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "F97FC141-5A05-47DE-8178-AD296BDC8CC5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "50FF9E5B-9FA6-49D0-AFA7-BCF67DA6B597"
+    },
+    {
+      "class": "group",
+      "id": "80BD249D-5903-436B-B021-8731013C3CDE"
+    }
+  ],
+  "name": "Input",
+  "nameIsFixed": true,
+  "originalObjectID": "F86FF7F7-9EC5-42D1-A3E4-1D9F91E85AC0",
+  "resizingConstraint": 59,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4AEDFFD-6CB2-40A1-8C5C-1071F38B16BC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

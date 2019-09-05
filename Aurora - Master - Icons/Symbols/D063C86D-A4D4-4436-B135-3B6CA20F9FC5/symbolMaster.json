@@ -1,0 +1,99 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": false,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "AFE9290F-BCC1-4564-8AA5-85CFD55B6003",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 93,
+  "clippingMaskMode": 0,
+  "do_objectID": "D063C86D-A4D4-4436-B135-3B6CA20F9FC5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7D8B22B7-FACD-4CD9-B256-F6E2A6040C30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D895EEBE-D2AC-4512-954A-514384100239",
+    "height": 16,
+    "width": 16,
+    "x": 375,
+    "y": 151
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "25530571-C0D2-458A-9CB8-A8138665E7CF"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "87E5C79E-CDA2-41EA-9354-01AF86A073FA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "86DA1A17-725B-44B6-A56A-5B850A006689"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B3F666F-8850-4C4E-9AD9-6CBEC2128A2B"
+    }
+  ],
+  "name": "Icons/Indicators/Feedback/Caution/Caution-Outline-16",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "4B3F666F-8850-4C4E-9AD9-6CBEC2128A2B_layerStyle"
+    }
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCBBF0A1-CA52-4831-89B8-4EDB323A5B2A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DA1805D-8CA3-4C8D-A9A4-D69CC38ED8D3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "571DF976-58E6-4D59-9E97-AB1B31D2947E",
+    "guides": [
+    ]
+  }
+}

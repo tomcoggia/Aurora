@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "814DBFF3-04E0-41CF-A15E-2B36F30C7F17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21472BA0-AC53-4580-9D07-8E04C4D41AD1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0900F8D7-EC7B-4E9B-AFAB-4F00D3B1076E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D964E101-F3E3-4999-BB0B-781665EBA338"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8E48C3AC-7A1D-42C2-BB34-10A20C3DED87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26D11903-C683-4812-B134-CD24849E62C8"
+    }
+  ],
+  "name": "Icons/Objects/Mobile-Ticket-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3D50C080-8902-43CB-9D1C-DBA37FC816DE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

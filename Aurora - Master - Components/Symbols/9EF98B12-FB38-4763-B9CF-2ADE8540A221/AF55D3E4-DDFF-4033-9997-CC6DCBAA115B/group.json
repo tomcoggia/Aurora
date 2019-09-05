@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF55D3E4-DDFF-4033-9997-CC6DCBAA115B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4C365E0-A355-4963-8636-1F9D57EE2803",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "428263FD-1635-496D-AC71-861A449391BC",
+    "height": 36,
+    "width": 85,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "9E301479-5694-4662-8234-F8D572A25CA6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "05E058FF-AFB2-4445-BD49-B79EDFDA6C9B"
+    },
+    {
+      "class": "group",
+      "id": "40404FA6-2850-43DE-9F4E-F89FB70B7F3C"
+    }
+  ],
+  "name": "States/Inputs/Dropdown-36-Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 27,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "36B376D8-430B-4F5F-989F-ADFBA5485A06",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}

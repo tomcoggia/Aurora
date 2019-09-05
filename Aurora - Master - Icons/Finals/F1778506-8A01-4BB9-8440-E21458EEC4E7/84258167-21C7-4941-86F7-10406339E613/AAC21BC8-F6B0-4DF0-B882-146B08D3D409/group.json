@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAC21BC8-F6B0-4DF0-B882-146B08D3D409",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F15F7CB0-A88E-4645-BDE2-8690F3666FED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8F943D54-8452-4F16-B53E-F42B2C32E6F7",
+    "height": 24,
+    "width": 417,
+    "x": 16,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "23072E58-15A2-421C-A772-0140BC6666E0"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "209A1509-5EFC-470A-852C-1E1D5A09B459"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E13C57D-7D47-448F-9137-F364B32F68C7"
+    },
+    {
+      "class": "rectangle",
+      "id": "862DE00F-FC22-4983-898B-AA29F12782E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6C86290-BA4D-4F04-92F1-F0E7188C8B23"
+    },
+    {
+      "class": "rectangle",
+      "id": "8653AB59-3534-47D1-93A5-1DA3F2425F9A"
+    },
+    {
+      "class": "rectangle",
+      "id": "EBB51BCE-6B31-4E56-9136-E34C1BCEF90D"
+    },
+    {
+      "class": "rectangle",
+      "id": "FD72AEF5-BA3B-4A08-8422-C6938045BD34"
+    },
+    {
+      "class": "rectangle",
+      "id": "D27A4E45-8EFD-477C-980B-6418FC8013A6"
+    },
+    {
+      "class": "text",
+      "id": "7739ED8E-B1C7-45CD-AE54-00F060258BDD"
+    }
+  ],
+  "name": "LinkedIn Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "910CC220-07DD-47FD-9BAE-2502AF327607",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

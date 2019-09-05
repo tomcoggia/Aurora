@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "225941E5-B8BC-4A79-8481-9EDCFB1C5D03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A46A3EB3-A3DA-4129-9E9B-5D3288A95F18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B6AA4586-1029-4895-BD7F-C302D243196E",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "ADF5E64A-C6DD-4A78-9840-65110986603A"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "34250A0E-DFD9-420D-BE87-B4C105A4F7CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7CBA99F-C64F-4614-AB67-55F3777A0D97"
+    }
+  ],
+  "name": "Icons/Actions/Phone-Support-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E9F62D09-ABB6-4E2E-8764-FFCACB72EDC0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

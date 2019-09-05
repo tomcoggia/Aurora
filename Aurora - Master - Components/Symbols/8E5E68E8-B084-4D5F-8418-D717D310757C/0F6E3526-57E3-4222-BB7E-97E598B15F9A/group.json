@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F6E3526-57E3-4222-BB7E-97E598B15F9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "690AF48A-960D-4DEC-BDBE-DF0A605345CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "86CE5736-F6C1-4ED7-ADF5-2F1C3AC96C73",
+    "height": 15,
+    "width": 51,
+    "x": 0,
+    "y": 41
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "452F77B3-1119-4B00-A2DF-0D49CA7D20CD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "738B75D7-6A5A-443A-ADC0-C4ACE5D4E554"
+    }
+  ],
+  "name": "States/Inputs/Text/Error-Text-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8CBB404-C22A-4115-9F50-C42FF055FA7C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

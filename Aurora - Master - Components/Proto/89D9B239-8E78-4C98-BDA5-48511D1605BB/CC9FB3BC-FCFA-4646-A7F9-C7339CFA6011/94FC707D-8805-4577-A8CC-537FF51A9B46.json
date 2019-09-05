@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "94FC707D-8805-4577-A8CC-537FF51A9B46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0BAE21B-D9B5-4FF6-9B29-FBD7E2BC170A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E17B2BA1-B85C-4DE9-8E0E-AFD9166B95CB",
+    "height": 36,
+    "width": 133,
+    "x": 8,
+    "y": 88
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C690A8AE-7A88-41D4-8B3D-E17C8D916797/59C944A1-86C9-4F62-84BE-B5A521F77765_stringValue",
+      "value": "Item 3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F082B2E9-843F-4739-AEA2-565334EF3762",
+      "overrideName": "6FE85CCF-A7DC-4811-AF32-0AF2AD703955_stringValue",
+      "value": "John Lennon"
+    }
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE63F987-9FB4-4EBC-A57F-592ACE7F8365",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9A141AA-8195-4DF5-9F72-5E860F8D615B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

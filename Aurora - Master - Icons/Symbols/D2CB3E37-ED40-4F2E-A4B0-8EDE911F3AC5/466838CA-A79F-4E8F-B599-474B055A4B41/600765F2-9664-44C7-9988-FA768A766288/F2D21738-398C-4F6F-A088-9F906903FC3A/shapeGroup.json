@@ -1,0 +1,114 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2D21738-398C-4F6F-A088-9F906903FC3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DDE1941C-A4F8-4996-8467-CB8180D0D6B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "FB663247-3417-4A0F-B839-0BAA2CC7BD2E",
+    "height": 5.547998000117435,
+    "width": 17.45454545454545,
+    "x": 3.272727272727275,
+    "y": 8.843749999999948
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "697E4DEF-37A0-4548-8721-18A8381958BD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3655C415-B362-4C5C-9C51-281128B9AB4A"
+    },
+    {
+      "class": "shapePath",
+      "id": "B2A40CBC-4F99-4A4C-8294-1C5EA81BA292"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D2FC242-CE1B-4E43-AF4C-456CAC93EA4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F41F6D97-6A7D-4644-BEA6-D15091326AE9"
+    },
+    {
+      "class": "shapePath",
+      "id": "E31FE532-DAE6-43A5-B8CE-9676BCF8F969"
+    }
+  ],
+  "name": "visa-logo",
+  "nameIsFixed": false,
+  "originalObjectID": "52F3D696-81CD-47DC-8EE5-A672BE2F47EA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "212E9617-07CA-4558-82F3-7F7DBBF5065E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 10.44329,
+            "enabled": 1,
+            "modelID": "constraint_a7013121-b246-4e5f-a997-5987c5ddeb8c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_093d3259-285e-4afd-a0e8-d1ad48da9e00",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

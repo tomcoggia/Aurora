@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06E62B87-8CC9-4674-A374-CDC8C2E50B45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "969BB9D1-DF29-4044-AF2F-A91C660F9CD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92525FA5-674F-4A7B-8E81-1323FD37585C",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "95809253-E08A-4616-938D-F125E0DB2AAD"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B9C3052D-5D09-4D05-94BC-06DBDAE13F35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "796460BD-0D8B-47D5-902F-9D444810223A"
+    }
+  ],
+  "name": "Icons/Tools/Select Row-Fill",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A1E994C-2DA4-45BF-A9A9-701523DCC856",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

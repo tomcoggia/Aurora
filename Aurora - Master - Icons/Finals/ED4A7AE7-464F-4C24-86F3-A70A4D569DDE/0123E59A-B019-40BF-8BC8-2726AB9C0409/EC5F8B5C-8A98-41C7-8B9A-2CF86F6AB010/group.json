@@ -1,0 +1,121 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC5F8B5C-8A98-41C7-8B9A-2CF86F6AB010",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F0CF70D4-546F-4323-B3C4-09C007CD73F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03EEDFC8-5C85-4868-84CC-22244D1B758F",
+    "height": 56,
+    "width": 417,
+    "x": 16,
+    "y": 233
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8F26AF60-1696-425E-B09B-FE3220BCA8D4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "826C9BC8-07E8-4AAA-83F9-5B6A6F66317A"
+    },
+    {
+      "class": "rectangle",
+      "id": "8C4885CB-415A-4EF1-A880-B2F5AA4BFBEE"
+    },
+    {
+      "class": "rectangle",
+      "id": "B42F1D30-9B13-4297-A90C-49D25F0FBFE0"
+    },
+    {
+      "class": "rectangle",
+      "id": "938DD934-5E95-449D-8A18-520461302FA5"
+    },
+    {
+      "class": "rectangle",
+      "id": "B5F98D5C-0B63-440E-949A-D67C9CC136CD"
+    },
+    {
+      "class": "rectangle",
+      "id": "306E1CA4-5FCF-42F5-91FA-B08B85809A86"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E086816-2DF4-4E67-8162-20B4F3E70A16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49FE2974-FFFB-48BE-833F-B281FE36E787"
+    },
+    {
+      "class": "rectangle",
+      "id": "5407436C-85F4-47DD-BB73-D1524F965851"
+    },
+    {
+      "class": "rectangle",
+      "id": "66D665BB-8F38-44DD-B9F1-10BEEF4DFADC"
+    },
+    {
+      "class": "group",
+      "id": "C3CC7A08-F6D9-4272-B8B5-95E3948F5071"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE3E6DE4-F07D-4D46-ABAA-80097EAB39F9"
+    },
+    {
+      "class": "group",
+      "id": "29D1FA1C-AEE5-453F-B914-3CC616DA8494"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE5B7FDC-9B97-4367-8B09-19A7CCA18656"
+    },
+    {
+      "class": "group",
+      "id": "631D18CD-E6BD-4468-B09D-265B1198C7F2"
+    },
+    {
+      "class": "group",
+      "id": "26EA7C32-0E10-4D82-810F-997DA6A927FA"
+    },
+    {
+      "class": "group",
+      "id": "4FA3D215-FF39-4694-9B1F-71D81FC4233B"
+    }
+  ],
+  "name": "Cart Copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FE439B52-8341-4E52-9B7F-B23FF7A1BE64",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

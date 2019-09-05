@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D24EA7EA-3A6B-4E71-8ECA-0B9B98DBB160",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D292726C-38A1-4CDF-B561-3DE04123B205",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76D76A15-2B5D-4498-80F5-4F2A474CF0B8",
+    "height": 18,
+    "width": 65,
+    "x": 0,
+    "y": 14
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "01210916-B37A-425D-8A8E-F65D5FAF1EC5"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1DED67C7-4839-4E71-81C0-4599BB193A2A"
+    }
+  ],
+  "name": "Left Label",
+  "nameIsFixed": false,
+  "resizingConstraint": 57,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "A34F63FE-29A3-4508-BEBB-82CEA62DCA4A",
+      "opacity": 0.4000000059604645
+    },
+    "do_objectID": "7AA8D661-22F4-4D11-A3BC-CF605E4D4900",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

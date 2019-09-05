@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E34EF5B-EBBB-4D23-A0E5-861A0F2AF021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "828D66A4-6D95-4CFC-BDF3-2119A7AB2750",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0435FDAE-54D1-43B8-AE53-08A17B6A2DCE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "AB24401E-64F6-4CD9-B6FB-139E9C867A72"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A65C0A77-F824-46EC-B3AB-B8B5D5063EE0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6ECF859-5788-4B3B-9CD2-EE3EA3997C4E"
+    }
+  ],
+  "name": "Payments/Outline/Amex-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "866420A2-8793-441E-AF2E-8E84A033965B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

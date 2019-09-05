@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C3ED6EF-974D-4B9F-B215-A52C4F623A6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6D31470C-55BE-4749-87EF-16ACF073EEE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9CA9AAAA-DF76-4281-8340-3B8DC517D2CB",
+    "height": 73,
+    "width": 157,
+    "x": 82,
+    "y": 56
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Dropdowns/Selector/Top Label/36",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F46A5F96-ED9B-4260-8940-5A95BFDD630E",
+      "overrideName": "431A0647-5F19-4B6F-A9ED-CAAE67178EBF_layerStyle",
+      "value": "F01F20BB-34DA-4599-B0EF-B1373C59C906"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A62AE667-3643-4F3F-9E88-FA2AB419A9A3",
+      "overrideName": "522BF737-1918-48B7-9674-547F56B2CAEC_stringValue",
+      "value": "Ringo Starr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6AC6C1B8-27A0-48DF-AB2B-1CFAF8443781",
+      "overrideName": "CA2BA33C-EF55-448F-8AB1-2CE07F309D09_stringValue",
+      "value": "Favorite Beatle"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19EF0DD7-A6C7-4EB0-9D4A-7CD7F59017D9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "64CBF65C-5ABF-45C5-9B79-55E374D7D8D4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "28F4B412-0969-4D3B-984E-C388D74188EE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DD19C1FB-96AE-426B-9574-61A0794CB810",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8791D95E-9B60-45E6-A068-12069B7AD8FF",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "189529B9-9C16-4389-8914-1007A1F20D6B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "80C11609-B3E4-4188-9160-30F11FF9C9EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "60586404-B6B4-4E75-829F-74BC2DBD1854"
+    }
+  ],
+  "name": "Decoration/Payment Methods/Debit Card-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31A68D6F-DD87-48CF-8BB8-9DBC35CA2F2C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

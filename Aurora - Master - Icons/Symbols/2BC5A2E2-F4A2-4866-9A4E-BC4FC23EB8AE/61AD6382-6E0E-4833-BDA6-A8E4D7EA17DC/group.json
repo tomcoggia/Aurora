@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61AD6382-6E0E-4833-BDA6-A8E4D7EA17DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D6715AA-26CD-4070-AF5E-C881CF60691A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FBF6FF20-720C-4AF0-A032-9E2485DF51AE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4759E68D-3A80-4CB2-B02F-BB199EB8DB73"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1872807F-CAF6-428E-BBD2-A530C43774E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F59048AC-116B-43D2-9F6E-1A866D5DFE72"
+    }
+  ],
+  "name": "Social/Outline/Facebook-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D6A4C129-07D5-4C75-AA61-9C7D856F8EA9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

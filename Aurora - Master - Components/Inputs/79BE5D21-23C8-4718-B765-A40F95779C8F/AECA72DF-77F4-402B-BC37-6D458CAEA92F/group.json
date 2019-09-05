@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AECA72DF-77F4-402B-BC37-6D458CAEA92F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 137,
+    "x": 341,
+    "y": 242
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "16E1CD5A-E075-41E1-89FE-4296ED2E2452"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "93D91016-3B4D-46AC-B63E-0B29E06291C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58824D20-AE07-494B-B2EF-6249BF8D87D7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8CCFD8D6-2B56-48A3-B1DB-769A2ADFECDB"
+    }
+  ],
+  "name": "Radio Group - Regular",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

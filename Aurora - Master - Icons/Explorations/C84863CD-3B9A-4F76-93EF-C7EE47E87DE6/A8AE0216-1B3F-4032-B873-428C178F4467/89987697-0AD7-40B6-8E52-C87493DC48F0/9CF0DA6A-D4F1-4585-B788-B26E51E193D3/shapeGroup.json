@@ -1,0 +1,110 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9CF0DA6A-D4F1-4585-B788-B26E51E193D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 10.44329035316223,
+    "width": 32,
+    "x": 6,
+    "y": 11
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "84C85D89-A639-4AE2-9ABE-BF4353C5060D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C38F21A3-1799-4E3B-8183-EA598EB63E56"
+    },
+    {
+      "class": "shapePath",
+      "id": "842DDA76-D4F7-4119-9441-F9AE2C84BD02"
+    },
+    {
+      "class": "shapePath",
+      "id": "36CBE31E-DC2D-4122-9AB7-E332B7AB236B"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A717443-860C-4C20-BB05-13322A9D2092"
+    }
+  ],
+  "name": "visa-logo",
+  "nameIsFixed": false,
+  "originalObjectID": "52F3D696-81CD-47DC-8EE5-A672BE2F47EA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 10.44329,
+            "enabled": 1,
+            "modelID": "constraint_a7013121-b246-4e5f-a997-5987c5ddeb8c",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 32
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_093d3259-285e-4afd-a0e8-d1ad48da9e00",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

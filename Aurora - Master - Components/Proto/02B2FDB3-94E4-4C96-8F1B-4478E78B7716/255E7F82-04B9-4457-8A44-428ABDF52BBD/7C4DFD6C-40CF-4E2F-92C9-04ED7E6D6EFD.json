@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C4DFD6C-40CF-4E2F-92C9-04ED7E6D6EFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C74B2657-E0F2-4641-953F-1657C0358B0D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CB4595B2-9748-47FE-81AF-576DD20E41B9",
+    "height": 36,
+    "width": 133,
+    "x": 8,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3DCF6459-0E9F-47F7-B325-5EC997797F95",
+      "overrideName": "6FE85CCF-A7DC-4811-AF32-0AF2AD703955_stringValue",
+      "value": "Paul McCartney"
+    }
+  ],
+  "resizingConstraint": 58,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "749B59A2-9E29-49AE-8F80-7D2F22B2C3CB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9A141AA-8195-4DF5-9F72-5E860F8D615B",
+  "verticalSpacing": 0
+}

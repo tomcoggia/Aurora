@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "497365C9-EEC3-4496-95C0-8E68E0468E4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39784AFB-C494-4F6E-A620-DBB8D7C3E5DB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DFC8883-9706-47D6-A75A-4D87B586C39E",
+    "height": 24,
+    "width": 417,
+    "x": 16,
+    "y": 56
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1B7BB882-CFD8-478C-B7B4-649FB2B3A519"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "DCBC00B2-C5D5-4C64-B454-3DC2C778A188"
+    },
+    {
+      "class": "rectangle",
+      "id": "C47E197B-DAED-43D4-ADB7-D7052D9A57A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65AB4C5D-F845-4B0A-B3FE-4F4D684BFB30"
+    },
+    {
+      "class": "rectangle",
+      "id": "2725F669-5447-4970-A6BC-88BDC25E7978"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A31DCE06-05C9-4F58-8233-CAD366A6571F"
+    },
+    {
+      "class": "rectangle",
+      "id": "6197B9EC-CFD2-4759-A13A-0AA9C52C78B5"
+    },
+    {
+      "class": "rectangle",
+      "id": "CE919245-646C-460E-B144-F920C87B77F0"
+    },
+    {
+      "class": "rectangle",
+      "id": "1F7A2A2B-4124-4C0D-8342-A944C7C98B58"
+    },
+    {
+      "class": "rectangle",
+      "id": "79E16489-28C5-4453-AB27-AEB7A8C018E9"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA400B92-CC6B-4E17-8FDF-B1A661CCF242",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

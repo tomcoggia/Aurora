@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8E5DD75A-AA19-4C3B-A057-9D8BFADEFEC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A366796-3B84-449A-A8C8-9529D7A874F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "313D9106-6EAB-48AD-B379-6C073AF25CB6",
+    "height": 18,
+    "width": 24,
+    "x": 0,
+    "y": 2.99999999999999
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6956731B-0905-4E45-A9BB-BBA2DA2B5501"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C393EA73-FC0D-4194-AC15-2CF030426F66"
+    },
+    {
+      "class": "shapePath",
+      "id": "30B6D822-2656-4672-BFF7-419AF8009090"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AEB5CB2-F921-410A-9A0A-8D4F1B8C8C41"
+    },
+    {
+      "class": "shapePath",
+      "id": "ED233901-C469-407E-878A-AD16A48531C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "9B82984D-6D38-4DCF-B0CA-01337F856E72"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDD8671D-430B-4D3A-A5C6-3932A6BAC647"
+    },
+    {
+      "class": "shapePath",
+      "id": "17D6C995-B9DB-4DA6-AFDC-8351B26DEEA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "67DFB059-9F9B-467C-B7F6-5D76A5942C40"
+    },
+    {
+      "class": "shapePath",
+      "id": "BBA10718-D44A-4ED7-866C-D98D27A44C4D"
+    }
+  ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "E4473BF7-6E6D-44C7-8D3B-68FE0860341D",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5BC0F84-375C-4413-B55A-A8633871E56E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 0.65,
+          "blue": 0.1490196078431373,
+          "green": 0.1490196078431373,
+          "red": 0.1490196078431373
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

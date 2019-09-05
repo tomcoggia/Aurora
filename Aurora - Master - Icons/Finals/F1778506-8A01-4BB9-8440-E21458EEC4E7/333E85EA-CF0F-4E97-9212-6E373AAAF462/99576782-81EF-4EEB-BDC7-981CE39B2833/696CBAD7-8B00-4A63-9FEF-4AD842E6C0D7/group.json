@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "696CBAD7-8B00-4A63-9FEF-4AD842E6C0D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98D6770F-4F9B-44B4-AA11-659B1C49B83C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4E479A7-9921-4C77-B8CA-2AA495844F0E",
+    "height": 24,
+    "width": 24,
+    "x": 273,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D635164B-4BAF-46AF-A9B7-0308948A4BBE"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "CF086A8C-20DF-4CD4-BF04-52C3B91C3AC3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A2C1A7F2-7110-4E45-B573-C5D9F37EC703"
+    }
+  ],
+  "name": "Icons/Social/Twitter-24",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FD5E551-C2E3-4CA2-8DB3-8D987068DC43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DBF87307-698E-47A1-8F06-7AE3CACC8956",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FA01BB58-EB59-455C-8DC0-9B81EE67B09C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "160C7351-20C9-4C6E-961C-19E20DE9988B",
+    "height": 24,
+    "width": 24,
+    "x": 201,
+    "y": 16
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C2095AFA-1825-4585-ABE1-348782C86178"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "192621BC-4DC8-412E-9E0D-74B9A47587DD"
+    },
+    {
+      "class": "rectangle",
+      "id": "2143CB1F-3A87-45CA-ABFC-6042D252303D"
+    }
+  ],
+  "name": "Icons/Actions/Play-24",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "457796AF-13D2-49F2-9C2E-C699076759C5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

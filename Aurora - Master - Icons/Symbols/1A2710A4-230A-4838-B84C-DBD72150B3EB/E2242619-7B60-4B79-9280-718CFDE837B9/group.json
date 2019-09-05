@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2242619-7B60-4B79-9280-718CFDE837B9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85A6CD95-7D6E-47A7-A95C-56FFAE59C3E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B4F528F7-34D4-42D7-B1E9-3A526D56847C",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "885D6ED4-5DEB-4FB2-92C2-398F923B176B"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "237370CF-CE00-40BB-90FC-37D171C0D6AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B879463-5780-4044-926D-11F411FAD8C0"
+    }
+  ],
+  "name": "Social/Outline/YouTube-16",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D05B37EA-164B-446E-BC08-DD89F1D6295D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
